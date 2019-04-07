@@ -1,0 +1,65 @@
+{
+  "id": 1243563577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.41072,15.60997,-61.41072,15.60997",
+    "geom:latitude":15.60997,
+    "geom:longitude":-61.41072,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Au Parc",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575923,
+    "gn:latitude":15.60997,
+    "gn:longitude":-61.41072,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Au Parc",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575923
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"259fc2abc7fc273907f1b2ead40b527d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1243563577,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":1243563577,
+    "wof:lastmodified":1536635397,
+    "wof:name":"Au Parc",
+    "wof:parent_id":85670495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.41072,
+    15.60997,
+    -61.41072,
+    15.60997
+],
+  "geometry": {"coordinates":[-61.41072,15.60997],"type":"Point"}
+}

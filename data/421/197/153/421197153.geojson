@@ -1,0 +1,132 @@
+{
+  "id": 421197153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.382632,15.251028,-61.382632,15.251028",
+    "geom:latitude":15.251028,
+    "geom:longitude":-61.382632,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:deu_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:dut_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4 \u039c\u03b9\u03c3\u03ad\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:fin_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:fra_x_preferred":[
+        "Pointe-Michel"
+    ],
+    "name:fre_x_preferred":[
+        "Pointe-Michel"
+    ],
+    "name:ger_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4 \u039c\u03b9\u03c3\u03ad\u03bb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05e0\u05d8 \u05de\u05d9\u05e9\u05dc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ef\u30f3\u30c8\u30fb\u30de\u30a4\u30b1\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:por_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:ron_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:rum_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:spa_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:swe_x_preferred":[
+        "Pointe Michel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0439\u043d\u0442-\u041c\u0456\u0448\u0435\u043b\u044c"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pointe Michel",
+    "qs:name_adm0":"Dominica",
+    "qs:name_adm1":"Saint Luke",
+    "qs:photos":216,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":216,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1323613,
+    "qs:woe_adm0":23424798,
+    "qs:woe_id":68821,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":68821,
+        "qs:id":1323613,
+        "wd:id":"Q1934011"
+    },
+    "wof:country":"DM",
+    "wof:created":1459009904,
+    "wof:geomhash":"0c6a8177a796864cbffd7289e3e557bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":421197153
+        }
+    ],
+    "wof:id":421197153,
+    "wof:lastmodified":1534379286,
+    "wof:name":"Pointe Michel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[
+        890429577
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.382632,
+    15.251028,
+    -61.382632,
+    15.251028
+],
+  "geometry": {"coordinates":[-61.382632,15.251028],"type":"Point"}
+}

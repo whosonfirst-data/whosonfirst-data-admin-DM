@@ -1,0 +1,65 @@
+{
+  "id": 1293203867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.40725,15.58867,-61.40725,15.58867",
+    "geom:latitude":15.58867,
+    "geom:longitude":-61.40725,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Belmanier",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575902,
+    "gn:latitude":15.58867,
+    "gn:longitude":-61.40725,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Belmanier",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575902
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"e056e367246ccce810ec76afae2a3bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1293203867,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":1293203867,
+    "wof:lastmodified":1536699193,
+    "wof:name":"Belmanier",
+    "wof:parent_id":85670495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.40725,
+    15.58867,
+    -61.40725,
+    15.58867
+],
+  "geometry": {"coordinates":[-61.40725,15.58867],"type":"Point"}
+}

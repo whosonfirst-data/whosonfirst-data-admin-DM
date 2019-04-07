@@ -1,0 +1,62 @@
+{
+  "id": 1209114749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37558,15.58771,-61.37558,15.58771",
+    "geom:latitude":15.58771,
+    "geom:longitude":-61.37558,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bense",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575900,
+    "gn:latitude":15.58771,
+    "gn:longitude":-61.37558,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Bense",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575900,
+        "wk:page":"Bense"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"967fbd4e923b34061915b2522c771702",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":1209114749
+        }
+    ],
+    "wof:id":1209114749,
+    "wof:lastmodified":1537504224,
+    "wof:name":"Bense",
+    "wof:parent_id":85632503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37558000000001,
+    15.58771,
+    -61.37558000000001,
+    15.58771
+],
+  "geometry": {"coordinates":[-61.37558000000001,15.58771],"type":"Point"}
+}

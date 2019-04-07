@@ -1,0 +1,64 @@
+{
+  "id": 1260295409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37521,15.299,-61.37521,15.299",
+    "geom:latitude":15.299,
+    "geom:longitude":-61.37521,
+    "gn:asciiname":"Upper King's Hill",
+    "gn:country_code":"DM",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11002642,
+    "gn:latitude":15.299,
+    "gn:longitude":-61.37521,
+    "gn:modification_date":"2016-01-01",
+    "gn:name":"Upper King's Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11002642
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"3056ab99cea78bd76f9433004aa1f7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1260295409,
+            "region_id":85670503
+        }
+    ],
+    "wof:id":1260295409,
+    "wof:lastmodified":1536696046,
+    "wof:name":"Upper King's Hill",
+    "wof:parent_id":85670503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37521,
+    15.299,
+    -61.37521,
+    15.299
+],
+  "geometry": {"coordinates":[-61.37521,15.299],"type":"Point"}
+}

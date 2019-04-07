@@ -1,0 +1,65 @@
+{
+  "id": 1344160051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.40574,15.58788,-61.40574,15.58788",
+    "geom:latitude":15.58788,
+    "geom:longitude":-61.40574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Source",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575749,
+    "gn:latitude":15.58788,
+    "gn:longitude":-61.40574,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"La Source",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575749
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"f09b1525fc9a9fe22e90cfa61ddd9c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1344160051,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":1344160051,
+    "wof:lastmodified":1536732118,
+    "wof:name":"La Source",
+    "wof:parent_id":85670495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.40574,
+    15.58788,
+    -61.40574,
+    15.58788
+],
+  "geometry": {"coordinates":[-61.40574,15.58788],"type":"Point"}
+}

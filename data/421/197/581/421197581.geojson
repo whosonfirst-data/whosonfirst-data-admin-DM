@@ -1,0 +1,117 @@
+{
+  "id": 421197581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43333,15.4,-61.43333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-61.43333,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03c3\u03ae\u03c6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d2'\u05d5\u05d6\u05e3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30bc\u30d5"
+    ],
+    "name:lit_x_preferred":[
+        "Sent D\u017eozefas"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:por_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:spa_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:unk_x_variant":[
+        "Saint Joseph"
+    ],
+    "qs:gn_country":"DM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575624,
+    "qs:gn_pop":2184,
+    "qs:name":"St. Joseph",
+    "qs:name_adm0":"Dominica",
+    "qs:name_adm1":"Saint Joseph",
+    "qs:photos":275,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":275,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149016,
+    "qs:woe_adm0":23424798,
+    "qs:woe_id":68837,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575624,
+        "gp:id":68837,
+        "qs:id":149016,
+        "wd:id":"Q1021646",
+        "wk:page":"Saint Joseph, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:created":1459009918,
+    "wof:geomhash":"3ecfd6a737e1a27ed14c928919208f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":421197581
+        }
+    ],
+    "wof:id":421197581,
+    "wof:lastmodified":1553816385,
+    "wof:name":"St. Joseph",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2184,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43333,
+    15.4,
+    -61.43333,
+    15.4
+],
+  "geometry": {"coordinates":[-61.43333,15.4],"type":"Point"}
+}

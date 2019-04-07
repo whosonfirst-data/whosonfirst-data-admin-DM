@@ -1,0 +1,64 @@
+{
+  "id": 1243078005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37269,15.30708,-61.37269,15.30708",
+    "geom:latitude":15.30708,
+    "geom:longitude":-61.37269,
+    "gn:asciiname":"St Aroment",
+    "gn:country_code":"DM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9063950,
+    "gn:latitude":15.30708,
+    "gn:longitude":-61.37269,
+    "gn:modification_date":"2014-05-27",
+    "gn:name":"St Aroment",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9063950
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"9e827092f1acb81a968564bcf22293bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1243078005,
+            "region_id":85670503
+        }
+    ],
+    "wof:id":1243078005,
+    "wof:lastmodified":1536838524,
+    "wof:name":"St Aroment",
+    "wof:parent_id":85670503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37269000000001,
+    15.30708,
+    -61.37269000000001,
+    15.30708
+],
+  "geometry": {"coordinates":[-61.37269000000001,15.30708],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 890434921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31667,15.56667,-61.31667,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-61.31667,
+    "gn:country":"DM",
+    "gn:fcode":"PPL",
+    "gn:pop":1933,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Wesley"
+    ],
+    "name:eng_x_preferred":[
+        "Wesley"
+    ],
+    "name:fre_x_preferred":[
+        "Wesley"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03ad\u03c3\u03bb\u03b9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e1\u05dc\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ba\u30ea\u30fc"
+    ],
+    "name:por_x_preferred":[
+        "Wesley"
+    ],
+    "name:rum_x_preferred":[
+        "Wesley"
+    ],
+    "name:spa_x_preferred":[
+        "Wesley"
+    ],
+    "name:swe_x_preferred":[
+        "Wesley"
+    ],
+    "name:unk_x_variant":[
+        "La Soie"
+    ],
+    "qs:name":"Wesley",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":480,
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575568,
+        "gp:id":68806,
+        "qs:id":149014,
+        "wd:id":"Q595272",
+        "wk:page":"Wesley"
+    },
+    "wof:country":"DM",
+    "wof:created":1469052045,
+    "wof:geomhash":"10a5ae4efebfa74672838719a9b52b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":890434921,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":890434921,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Wesley",
+    "wof:parent_id":85670495,
+    "wof:placetype":"locality",
+    "wof:population":1933,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31667,
+    15.56667,
+    -61.31667,
+    15.56667
+],
+  "geometry": {"coordinates":[-61.31667,15.56667],"type":"Point"}
+}

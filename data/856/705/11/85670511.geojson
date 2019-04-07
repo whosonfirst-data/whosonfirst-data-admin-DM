@@ -1,0 +1,315 @@
+{
+  "id": 85670511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009687,
+    "geom:area_square_m":115463094.90636,
+    "geom:bbox":"-61.4553294304,15.389345201,-61.3173628399,15.4944550641",
+    "geom:latitude":15.441453,
+    "geom:longitude":-61.385753,
+    "gn:population":6213,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint Joseph Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.434628,
+    "lbl:longitude":-61.380168,
+    "mps:latitude":15.434628,
+    "mps:longitude":-61.380168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062c\u0648\u0632\u064a\u0641"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09cb\u09b8\u09c7\u09ab \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint Joseph"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7d04\u745f\u592b\u5802\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Joseph Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03c3\u03ae\u03c6"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:eng_x_variant":[
+        "St Joseph",
+        "St. Joseph",
+        "Saint Joseph Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0648\u0632\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Joseph"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Joseph"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03c3\u03ae\u03c6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acb\u0ab8\u0ac7\u0aab \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u094b\u0938\u0947\u092b \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Joseph"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Joseph"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30bc\u30d5\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0ccb\u0cb8\u0cc6\u0cab\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\ud504 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentd\u017eozefa pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Juozapo parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u094b\u0938\u0947\u092b \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Joseph Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Joseph prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Joseph prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u062c\u0648\u0632\u0641 \u067e\u0627\u0631\u06cc\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. J\u00f3zefa na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0dc1\u0db4\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Joseph"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bcb\u0b9a\u0baa\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c4b\u0c38\u0c46\u0c2b\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e42\u0e08\u0e40\u0e0b\u0e1f \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Sain Joseph Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0648\u0632\u0641 \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Joseph"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7d04\u745f\u592b\u5802\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1436",
+    "ne:adm1_code":"DMA-1436",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.JH",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1436",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.06",
+    "ne:gn_id":"3575625",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Joseph",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO06",
+    "ne:gns_id":"-1352354",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Joseph",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.43550000000",
+    "ne:longitude":"-61.38630000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint Joseph",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JH",
+    "ne:provnum_ne":"10",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345165,
+    "ne:woe_label":"Saint Joseph, DM, Dominica",
+    "ne:woe_name":"Saint Joseph",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint Joseph",
+    "qs:a1_lc":"DMA-1436",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"110",
+    "statoids:area_mi":"42",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO06",
+    "statoids:hasc":"DM.JH",
+    "statoids:iso":"06",
+    "statoids:name":"Saint Joseph",
+    "statoids:population":"5637",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-06",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO06",
+        "gn:id":3575625,
+        "gp:id":2345165,
+        "hasc:id":"DM.JH",
+        "iso:id":"DM-06",
+        "qs:id":890045,
+        "unlc:id":"DM-06",
+        "wd:id":"Q1476302",
+        "wk:page":"Saint Joseph Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"62ba44730b97a7bf7c818d00e541468a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670511
+        }
+    ],
+    "wof:id":85670511,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint Joseph",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":5637,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"JH",
+    "wof:subdivision":"DM-06",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45532943040882,
+    15.38934520102026,
+    -61.31736283992308,
+    15.49445506414992
+],
+  "geometry": {"coordinates":[[[-61.38446468779506,15.47778941524939],[-61.37857357441089,15.47838369445196],[-61.3745428130004,15.47962392790203],[-61.37043453632475,15.48163930950659],[-61.369349330707,15.4818460150816],[-61.36810909725699,15.48158763356247],[-61.35769629604721,15.47714346010264],[-61.35405310736496,15.47592906327571],[-61.35087500667618,15.47528310812896],[-61.34785193471896,15.47497304886718],[-61.34397620293936,15.47337108021122],[-61.33811092797691,15.47024465636582],[-61.32286637967962,15.45833323838826],[-61.31736283992308,15.44487152769892],[-61.33457109208217,15.40495148452345],[-61.36803158199189,15.38973277374856],[-61.37113216831489,15.38934520102026],[-61.37547298898721,15.38993948022289],[-61.39255204903782,15.39391856479],[-61.40487687816534,15.3936085073268],[-61.41598731136531,15.3901461857979],[-61.4160071773893,15.39013999486491],[-61.41808020733566,15.40595123925834],[-61.42121334462013,15.41474030192342],[-61.44420325367719,15.43683502851383],[-61.44786536409526,15.44513580966992],[-61.44977779850655,15.45465729459852],[-61.4542537099407,15.46482982034001],[-61.45532943040882,15.46632976900366],[-61.45531307623742,15.46634308526524],[-61.43916419127436,15.47952057511452],[-61.43306637231518,15.48548920286447],[-61.43208452038425,15.48714284926314],[-61.43066341798232,15.48889984844931],[-61.42384212861128,15.49207794823877],[-61.40567786294298,15.49445506414992],[-61.3928621082996,15.4821043975],[-61.38927059556147,15.4798564718987],[-61.38446468779506,15.47778941524939]]],"type":"Polygon"}
+}

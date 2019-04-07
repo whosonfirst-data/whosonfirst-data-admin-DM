@@ -1,0 +1,93 @@
+{
+  "id": 890429579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.4,15.35,-61.4,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":-61.4,
+    "gn:country":"DM",
+    "gn:fcode":"PPL",
+    "gn:pop":2369,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0443\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Mahaut"
+    ],
+    "name:eng_x_preferred":[
+        "Mahaut"
+    ],
+    "name:fre_x_preferred":[
+        "Mahaut"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03ce"
+    ],
+    "name:lit_x_preferred":[
+        "Mao"
+    ],
+    "name:pol_x_preferred":[
+        "Mahaut"
+    ],
+    "name:por_x_preferred":[
+        "Mahaut"
+    ],
+    "name:rum_x_preferred":[
+        "Mahaut"
+    ],
+    "name:swe_x_preferred":[
+        "Mahaut"
+    ],
+    "qs:name":"Mahaut",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575733,
+        "gp:id":68805,
+        "qs:id":149020,
+        "wd:id":"Q3052683",
+        "wk:page":"Mahaut"
+    },
+    "wof:country":"DM",
+    "wof:created":1469051820,
+    "wof:geomhash":"48b52cd45477dfb13f67176880dab56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":890429579
+        }
+    ],
+    "wof:id":890429579,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Mahaut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2369,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.4,
+    15.35,
+    -61.4,
+    15.35
+],
+  "geometry": {"coordinates":[-61.4,15.35],"type":"Point"}
+}

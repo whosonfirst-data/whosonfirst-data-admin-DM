@@ -1,0 +1,61 @@
+{
+  "id": 1293699863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39729,15.59969,-61.39729,15.59969",
+    "geom:latitude":15.59969,
+    "geom:longitude":-61.39729,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Thibaud",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575587,
+    "gn:latitude":15.59969,
+    "gn:longitude":-61.39729,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Thibaud",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575587
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"7fe5d1d909fe231ea7d15712ecb05ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293699863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293699863,
+    "wof:lastmodified":1536977557,
+    "wof:name":"Thibaud",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39729000000001,
+    15.59969,
+    -61.39729000000001,
+    15.59969
+],
+  "geometry": {"coordinates":[-61.39729000000001,15.59969],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1344261967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.41628,15.62603,-61.41628,15.62603",
+    "geom:latitude":15.62603,
+    "geom:longitude":-61.41628,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Haut",
+    "gn:country_code":"DM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575758,
+    "gn:latitude":15.62603,
+    "gn:longitude":-61.41628,
+    "gn:modification_date":"2016-01-01",
+    "gn:name":"L\u00e0 Haut",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575758
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"e6b82e51d37d903cea084608ae90b79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344261967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344261967,
+    "wof:lastmodified":1537078783,
+    "wof:name":"La Haut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.41628000000001,
+    15.62603,
+    -61.41628000000001,
+    15.62603
+],
+  "geometry": {"coordinates":[-61.41628000000001,15.62603],"type":"Point"}
+}

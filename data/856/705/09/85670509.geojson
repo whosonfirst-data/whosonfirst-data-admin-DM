@@ -1,0 +1,315 @@
+{
+  "id": 85670509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005481,
+    "geom:area_square_m":65282760.900778,
+    "geom:bbox":"-61.4889216791,15.5030075143,-61.4077190821,15.6338565122",
+    "geom:latitude":15.566384,
+    "geom:longitude":-61.449686,
+    "gn:population":5010,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint John Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.554194,
+    "lbl:longitude":-61.443546,
+    "mps:latitude":15.554194,
+    "mps:longitude":-61.443546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062c\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09a8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint John"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint John"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7d04\u7ff0\u5802\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint John"
+    ],
+    "name:dan_x_preferred":[
+        "Saint John Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint John"
+    ],
+    "name:dut_x_preferred":[
+        "Saint John"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint John"
+    ],
+    "name:eng_x_variant":[
+        "St John",
+        "St. John",
+        "Saint John Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0627\u0646\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Saint John"
+    ],
+    "name:fra_x_preferred":[
+        "Saint John"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-John"
+    ],
+    "name:ger_x_preferred":[
+        "Saint John"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0a9f \u0a9c\u0acd\u0ab9\u0acb\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0928 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint John"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint John"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc874 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentd\u017eona pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Jono parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0928 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint John Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint John"
+    ],
+    "name:nob_x_preferred":[
+        "Saint John prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint John prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0627\u0646\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. Jana na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint John"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint John"
+    ],
+    "name:swe_x_preferred":[
+        "Saint John"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bbe\u0ba9\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c28\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e08\u0e2d\u0e19 \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint John Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0646 \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint John"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7d04\u7ff0\u5802\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1435",
+    "ne:adm1_code":"DMA-1435",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.JN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1435",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO05",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.05",
+    "ne:gn_id":"3575626",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint John",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO05",
+    "ne:gns_id":"-1352353",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint John",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.57670000000",
+    "ne:longitude":"-61.44830000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint John",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JN",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345164,
+    "ne:woe_label":"",
+    "ne:woe_name":"Saint John",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint John",
+    "qs:a1_lc":"DMA-1435",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"65",
+    "statoids:area_mi":"25",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO05",
+    "statoids:hasc":"DM.JN",
+    "statoids:iso":"05",
+    "statoids:name":"Saint John",
+    "statoids:population":"6561",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-05",
+    "wd:wordcount":275,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO05",
+        "gn:id":3575626,
+        "gp:id":2345164,
+        "hasc:id":"DM.JN",
+        "iso:id":"DM-05",
+        "qs:id":894872,
+        "unlc:id":"DM-05",
+        "wd:id":"Q1476285",
+        "wk:page":"Saint John Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"7a0a2e1340b63aa530b4dbe5286c812e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670509
+        }
+    ],
+    "wof:id":85670509,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint John",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":6561,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"JN",
+    "wof:subdivision":"DM-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48892167909219,
+    15.5030075142854,
+    -61.40771908206995,
+    15.63385651216834
+],
+  "geometry": {"coordinates":[[[-61.44921069591686,15.63308350080297],[-61.44030107283618,15.5951207538198],[-61.4376138976632,15.59067658125929],[-61.43087012355733,15.58416535115009],[-61.42725277419612,15.58277008716982],[-61.42699439177773,15.58235667601986],[-61.42652930378432,15.58145233845471],[-61.4261417301567,15.58106476482709],[-61.4257541574284,15.58080638330802],[-61.42397131982051,15.58005707447444],[-61.42342871836064,15.57997956010865],[-61.42249854237377,15.57992788326527],[-61.42205929190277,15.58003123605278],[-61.42172339511853,15.58008291289616],[-61.42136165991263,15.58013458884028],[-61.42105160244944,15.58005707447444],[-61.42071570476594,15.57992788326527],[-61.42043148482514,15.57974701611198],[-61.41968217599157,15.57866181139354],[-61.41921708799816,15.57848094334094],[-61.41826107358963,15.56765473098108],[-61.41885535279226,15.53869009047537],[-61.41797685364884,15.53279897709115],[-61.41143978511792,15.5275796572754],[-61.41014787482453,15.52264455829976],[-61.40771908206995,15.5030075142854],[-61.4632195712262,15.53179128673855],[-61.4635813064321,15.53163625710761],[-61.46422726067948,15.53155874274182],[-61.4650024070354,15.53161041868594],[-61.46926571334194,15.53241140436285],[-61.46970496291368,15.53238556594118],[-61.47492428183011,15.53370331555561],[-61.47575110502942,15.53380666834312],[-61.47668128101628,15.53365163781291],[-61.47730139774126,15.53365163781291],[-61.47952348492083,15.53416840354902],[-61.48029863127675,15.53372915307801],[-61.48071204332609,15.53339325629378],[-61.48399349590306,15.52959503798064],[-61.48400222292423,15.52958493679546],[-61.48485266771638,15.53034088712229],[-61.48892167909219,15.53571198102316],[-61.48888098926619,15.54507070484919],[-61.48399817597499,15.55158112197125],[-61.4672745432855,15.5629743514852],[-61.46214759013912,15.57298411702345],[-61.46906490821891,15.57428620044783],[-61.481190559097,15.57855866095349],[-61.48888098926619,15.57925039339096],[-61.48062089793603,15.59100983313732],[-61.4689835276676,15.63385651216834],[-61.44921069591686,15.63308350080297]]],"type":"Polygon"}
+}

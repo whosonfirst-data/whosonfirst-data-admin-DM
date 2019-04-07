@@ -1,0 +1,62 @@
+{
+  "id": 1293397423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25406,15.41168,-61.25406,15.41168",
+    "geom:latitude":15.41168,
+    "geom:longitude":-61.25406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Good Hope",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575793,
+    "gn:latitude":15.41168,
+    "gn:longitude":-61.25406,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Good Hope",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575793,
+        "wk:page":"Good_Hope%2C_Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"1a9d288a919064092dad7f53a447be7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293397423,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293397423,
+    "wof:lastmodified":1537504223,
+    "wof:name":"Good Hope",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25406,
+    15.41168,
+    -61.25406,
+    15.41168
+],
+  "geometry": {"coordinates":[-61.25406,15.41168],"type":"Point"}
+}

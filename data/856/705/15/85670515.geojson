@@ -1,0 +1,315 @@
+{
+  "id": 85670515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:area_square_m":3462520.473508,
+    "geom:bbox":"-61.3731788283,15.2358837314,-61.3556550769,15.2603473523",
+    "geom:latitude":15.248327,
+    "geom:longitude":-61.365725,
+    "gn:population":1603,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint Luke Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.248313,
+    "lbl:longitude":-61.365013,
+    "mps:latitude":15.248313,
+    "mps:longitude":-61.365013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0627\u0646\u062a \u0644\u0648\u0643\u060c \u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09c1\u0995 \u09aa\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint Luke"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u514b\u5802\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:dan_x_preferred":[
+        "St. Luke"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039b\u03bf\u03c5\u03ba\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:eng_x_variant":[
+        "St Luke",
+        "St. Luke",
+        "Saint Luke Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u0644\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Luke"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Luke"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039b\u03bf\u03c5\u03ba\u03ac\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acd\u0aaf\u0ac1\u0a95 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u094d\u092f\u0942\u0915 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Luke"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Luke"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30eb\u30fc\u30af"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cb2\u0ccd\u0caf\u0cc2\u0c95\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ub8e8\ud06c \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentl\u016bka pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Luko parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u093f\u0915 \u092a\u0930\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Luke Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Luke prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Luke prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u0644\u0648\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. \u0141ukasza na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u041b\u044e\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dbd\u0dd6\u0d9a\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Luke"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Luke"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb2\u0bc2\u0b95\u0bcd\u0b95\u0bbe  \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c4d\u0c2f\u0c42\u0c15\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e0b\u0e19\u0e25\u0e38\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Luke Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041b\u044e\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0642 \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Luke"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u514b\u5802\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1437",
+    "ne:adm1_code":"DMA-1437",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.LU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1437",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO07",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.07",
+    "ne:gn_id":"3575622",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Luke",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO07",
+    "ne:gns_id":"-1352357",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Luke",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.24830000000",
+    "ne:longitude":"-61.36440000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint Luke",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LU",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345166,
+    "ne:woe_label":"Saint Luke, DM, Dominica",
+    "ne:woe_name":"Saint Luke",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint Luke",
+    "qs:a1_lc":"DMA-1437",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"15",
+    "statoids:area_mi":"6",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO07",
+    "statoids:hasc":"DM.LU",
+    "statoids:iso":"07",
+    "statoids:name":"Saint Luke",
+    "statoids:population":"1668",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-07",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO07",
+        "gn:id":3575622,
+        "gp:id":2345166,
+        "hasc:id":"DM.LU",
+        "iso:id":"DM-07",
+        "qs:id":890046,
+        "unlc:id":"DM-07",
+        "wd:id":"Q1431099",
+        "wk:page":"Saint Luke Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"704bd94be4de028b5f67b6d54d804fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670515
+        }
+    ],
+    "wof:id":85670515,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint Luke",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":1668,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"LU",
+    "wof:subdivision":"DM-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.3731788283402,
+    15.23588373144912,
+    -61.35565507692024,
+    15.2603473523485
+],
+  "geometry": {"coordinates":[[[-61.35661109132877,15.25379791903879],[-61.35565507692024,15.24379852987829],[-61.3728374897583,15.2359178742106],[-61.37294084344512,15.23589203488956],[-61.3729735949554,15.23588373144912],[-61.3727921207597,15.23720937711113],[-61.3731788283402,15.2603473523485],[-61.37314754902013,15.26033498846897],[-61.35661109132877,15.25379791903879]]],"type":"Polygon"}
+}

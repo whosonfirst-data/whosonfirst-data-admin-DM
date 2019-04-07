@@ -1,0 +1,61 @@
+{
+  "id": 1242779863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25353,15.49025,-61.25353,15.49025",
+    "geom:latitude":15.49025,
+    "geom:longitude":-61.25353,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saint Cyr",
+    "gn:country_code":"DM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575631,
+    "gn:latitude":15.49025,
+    "gn:longitude":-61.25353,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Saint Cyr",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575631
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"e4ac815f032e9c57068a290172b8946f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242779863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242779863,
+    "wof:lastmodified":1536772953,
+    "wof:name":"Saint Cyr",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25353000000001,
+    15.49025,
+    -61.25353000000001,
+    15.49025
+],
+  "geometry": {"coordinates":[-61.25353000000001,15.49025],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225833207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46679,15.51361,-61.46679,15.51361",
+    "geom:latitude":15.51361,
+    "geom:longitude":-61.46679,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dublanc",
+    "gn:country_code":"DM",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575825,
+    "gn:latitude":15.51361,
+    "gn:longitude":-61.46679,
+    "gn:modification_date":"2016-01-01",
+    "gn:name":"Dublanc",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575825,
+        "wk:page":"Dublanc"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"ca47ba2551ac24980e806d762d811f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1225833207,
+            "region_id":85670531
+        }
+    ],
+    "wof:id":1225833207,
+    "wof:lastmodified":1537504223,
+    "wof:name":"Dublanc",
+    "wof:parent_id":85670531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46679,
+    15.51361,
+    -61.46679,
+    15.51361
+],
+  "geometry": {"coordinates":[-61.46679,15.51361],"type":"Point"}
+}

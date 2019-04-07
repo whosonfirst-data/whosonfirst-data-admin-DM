@@ -1,0 +1,69 @@
+{
+  "id": 1293085509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33384,15.23554,-61.33384,15.23554",
+    "geom:latitude":15.23554,
+    "geom:longitude":-61.33384,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tete Morne",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575589,
+    "gn:latitude":15.23554,
+    "gn:longitude":-61.33384,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"T\u00eate Morne",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00eate Morne",
+        "Tete Morne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575589
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"fbb83ad373fe2ffc68e7582ecabced44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1293085509,
+            "region_id":85670521
+        }
+    ],
+    "wof:id":1293085509,
+    "wof:lastmodified":1537619901,
+    "wof:name":"Tete Morne",
+    "wof:parent_id":85670521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33384,
+    15.23554,
+    -61.33384,
+    15.23554
+],
+  "geometry": {"coordinates":[-61.33384,15.23554],"type":"Point"}
+}

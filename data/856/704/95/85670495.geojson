@@ -1,0 +1,315 @@
+{
+  "id": 85670495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016702,
+    "geom:area_square_m":198980471.052831,
+    "geom:bbox":"-61.4492106959,15.4448715277,-61.2686254549,15.6330835008",
+    "geom:latitude":15.535794,
+    "geom:longitude":-61.354701,
+    "gn:population":11122,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint Andrew Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.536715,
+    "lbl:longitude":-61.354703,
+    "mps:latitude":15.536715,
+    "mps:longitude":-61.354703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0627\u0646\u062a \u0623\u0646\u062f\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u0986\u09a8\u09cd\u09a1\u09cd\u09b0\u09c1 \u09aa\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint Andrew"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u5b89\u5fb7\u9c81\u533a"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Andrew Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:eng_x_variant":[
+        "St Andrew",
+        "St. Andrew",
+        "Saint Andrew Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u0627\u0646\u062f\u0631\u0648\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Andrew"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Andrew"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0ac1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u090f\u0902\u0921\u094d\u0930\u0942 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Andrew"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Andrew"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30a2\u30f3\u30c9\u30eb\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c86\u0c82\u0ca1\u0ccd\u0cb0\u0ccd\u0caf\u0cc2 \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc564\ub4dc\ub8e8 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentendr\u016b pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Andriaus parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0905\u0901\u0921\u094d\u0930\u0942 \u092a\u0930\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Andrew Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Andrew prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Andrew prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u0627\u0646\u062f\u0631\u0648\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. Andrzeja na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0445\u043e\u0434\u0421\u0435\u043d\u0442-\u042d\u043d\u0434\u0440\u044e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d87\u0db1\u0dca\u0da9\u0dca\u0dbb\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Andrew"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b85\u0ba9\u0bcd\u0bb1\u0bc6\u0bb5\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c06\u0c02\u0c21\u0c4d\u0c30\u0c42 \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e41\u0e2d\u0e19\u0e14\u0e23\u0e34\u0e27 \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Andrew Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0410\u043d\u0434\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648 \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Andrew"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5b89\u5fb7\u9c81\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1432",
+    "ne:adm1_code":"DMA-1432",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.AN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1432",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO02",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.02",
+    "ne:gn_id":"3575632",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Andrew",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO02",
+    "ne:gns_id":"-1352347",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Andrew",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.53780000000",
+    "ne:longitude":"-61.35890000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint Andrew",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AN",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345161,
+    "ne:woe_label":"Saint Andrew, DM, Dominica",
+    "ne:woe_name":"Saint Andrew",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint Andrew",
+    "qs:a1_lc":"DMA-1432",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"165",
+    "statoids:area_mi":"64",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO02",
+    "statoids:hasc":"DM.AN",
+    "statoids:iso":"02",
+    "statoids:name":"Saint Andrew",
+    "statoids:population":"9471",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-02",
+    "wd:wordcount":243,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO02",
+        "gn:id":3575632,
+        "gp:id":2345161,
+        "hasc:id":"DM.AN",
+        "iso:id":"DM-02",
+        "qs:id":219540,
+        "unlc:id":"DM-02",
+        "wd:id":"Q732322",
+        "wk:page":"Saint Andrew Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"0b4e94cfb8958d812063cf94cdfea1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":85670495,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint Andrew",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":9471,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"AN",
+    "wof:subdivision":"DM-02",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44921069591686,
+    15.44487152769892,
+    -61.26862545490076,
+    15.63308350080297
+],
+  "geometry": {"coordinates":[[[-61.26862545490076,15.50991445508811],[-61.27413550484965,15.50313670549463],[-61.27576331192728,15.49944183996899],[-61.27537573919898,15.49802073846638],[-61.27465226878712,15.47771189998423],[-61.27491065120557,15.47577403454409],[-61.27529822483319,15.4756190049132],[-61.27591834155817,15.47515391691979],[-61.27953569181869,15.47156240508099],[-61.28056922059301,15.47073558188163],[-61.28113766137392,15.47042552351917],[-61.28168026373316,15.47027049388822],[-61.28214535172657,15.47019297952244],[-61.28377315880419,15.47016714110072],[-61.28410905558843,15.47008962673493],[-61.28449662921605,15.46993459710404],[-61.28702877475808,15.46784170203296],[-61.28873409710087,15.46603302690272],[-61.28958675782258,15.46530955739019],[-61.29028438981271,15.46492198286325],[-61.29062028659689,15.46492198286325],[-61.29129208016531,15.46505117407247],[-61.29167965379293,15.46507701339351],[-61.29240312420478,15.46492198286325],[-61.29268734414558,15.46487030691918],[-61.29302324092981,15.46499949812841],[-61.29346248960218,15.46515452685998],[-61.29385006412912,15.46538707085671],[-61.29842342789885,15.46228648543303],[-61.31736283992308,15.44487152769892],[-61.32286637967962,15.45833323838826],[-61.33811092797691,15.47024465636582],[-61.34397620293936,15.47337108021122],[-61.34785193471896,15.47497304886718],[-61.35087500667618,15.47528310812896],[-61.35405310736496,15.47592906327571],[-61.35769629604721,15.47714346010264],[-61.36810909725699,15.48158763356247],[-61.369349330707,15.4818460150816],[-61.37043453632475,15.48163930950659],[-61.3745428130004,15.47962392790203],[-61.37857357441089,15.47838369445196],[-61.38446468779506,15.47778941524939],[-61.38927059556147,15.4798564718987],[-61.3928621082996,15.4821043975],[-61.40567786294298,15.49445506414992],[-61.40771908206995,15.5030075142854],[-61.41014787482453,15.52264455829976],[-61.41143978511792,15.5275796572754],[-61.41797685364884,15.53279897709115],[-61.41885535279226,15.53869009047537],[-61.41826107358963,15.56765473098108],[-61.41921708799816,15.57848094334094],[-61.41968217599157,15.57866181139354],[-61.42043148482514,15.57974701611198],[-61.42071570476594,15.57992788326527],[-61.42105160244944,15.58005707447444],[-61.42136165991263,15.58013458884028],[-61.42172339511853,15.58008291289616],[-61.42205929190277,15.58003123605278],[-61.42249854237377,15.57992788326527],[-61.42342871836064,15.57997956010865],[-61.42397131982051,15.58005707447444],[-61.4257541574284,15.58080638330802],[-61.4261417301567,15.58106476482709],[-61.42652930378432,15.58145233845471],[-61.42699439177773,15.58235667601986],[-61.42725277419612,15.58277008716982],[-61.43087012355733,15.58416535115009],[-61.4376138976632,15.59067658125929],[-61.44030107283618,15.5951207538198],[-61.44921069591686,15.63308350080297],[-61.44920813734564,15.63308340097819],[-61.43724524577141,15.63263580929521],[-61.42593339770809,15.62848541916679],[-61.41372636627875,15.61957428612448],[-61.39757239475017,15.59662506689335],[-61.38463294195668,15.58836497646257],[-61.36974036402654,15.5959333353552],[-61.35732988166865,15.59829336144952],[-61.30768795493515,15.57925039339096],[-61.30589759000173,15.57245514568848],[-61.29954993398223,15.5571963566266],[-61.28962154899523,15.54096100544609],[-61.28404700416587,15.53139883069156],[-61.26862545490076,15.50991445508811]]],"type":"Polygon"}
+}

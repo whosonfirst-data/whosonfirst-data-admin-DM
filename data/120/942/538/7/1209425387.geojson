@@ -1,0 +1,61 @@
+{
+  "id": 1209425387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38916,15.33137,-61.38916,15.33137",
+    "geom:latitude":15.33137,
+    "geom:longitude":-61.38916,
+    "gn:asciiname":"Canefield",
+    "gn:country_code":"DM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504974,
+    "gn:latitude":15.33137,
+    "gn:longitude":-61.38916,
+    "gn:modification_date":"2013-03-31",
+    "gn:name":"Canefield",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504974,
+        "wk:page":"Canefield"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"c33fdbaef48d3b24ee9d8d26d205e9a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":1209425387
+        }
+    ],
+    "wof:id":1209425387,
+    "wof:lastmodified":1537504224,
+    "wof:name":"Canefield",
+    "wof:parent_id":85632503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38916,
+    15.33137,
+    -61.38916,
+    15.33137
+],
+  "geometry": {"coordinates":[-61.38916,15.33137],"type":"Point"}
+}

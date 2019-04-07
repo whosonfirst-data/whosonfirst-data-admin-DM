@@ -1,0 +1,71 @@
+{
+  "id": 1260182397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33211,15.3372,-61.33211,15.3372",
+    "geom:latitude":15.3372,
+    "geom:longitude":-61.33211,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Laudat",
+    "gn:cc2":"DM",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575747,
+    "gn:latitude":15.3372,
+    "gn:longitude":-61.33211,
+    "gn:modification_date":"2018-01-01",
+    "gn:name":"Laudat",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meudon",
+        "Laudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575747,
+        "wk:page":"Laudat"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"5647ceb761505e27a668e220b17ecff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":1260182397,
+            "region_id":85670503
+        }
+    ],
+    "wof:id":1260182397,
+    "wof:lastmodified":1537619902,
+    "wof:name":"Laudat",
+    "wof:parent_id":85670503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33211,
+    15.3372,
+    -61.33211,
+    15.3372
+],
+  "geometry": {"coordinates":[-61.33211,15.3372],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890434919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33333,15.56667,-61.33333,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-61.33333,
+    "gn:country":"DM",
+    "gn:fcode":"PPL",
+    "gn:pop":1063,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Woodford Hill",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575565,
+        "gp:id":68806,
+        "qs:id":149013,
+        "wd:id":"Q16903619",
+        "wk:page":"Woodford Hill River"
+    },
+    "wof:country":"DM",
+    "wof:created":1469052045,
+    "wof:geomhash":"c372d482b876f27269b09b821a6c4049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":890434919,
+            "region_id":85670495
+        }
+    ],
+    "wof:id":890434919,
+    "wof:lastmodified":1527792949,
+    "wof:name":"Woodford Hill",
+    "wof:parent_id":85670495,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33333,
+    15.56667,
+    -61.33333,
+    15.56667
+],
+  "geometry": {"coordinates":[-61.33333,15.56667],"type":"Point"}
+}

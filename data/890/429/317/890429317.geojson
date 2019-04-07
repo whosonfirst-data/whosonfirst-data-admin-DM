@@ -1,0 +1,100 @@
+{
+  "id": 890429317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35,15.36667,-61.35,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":-61.35,
+    "gn:country":"DM",
+    "gn:fcode":"PPL",
+    "gn:pop":702,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Pont-Cass\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03bd \u039a\u03b1\u03c3\u03c3\u03ad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8 \u05e7\u05e1\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30fb\u30ab\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:rum_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Pont Cass\u00e9"
+    ],
+    "qs:name":"Pont Cass\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191575,
+        85632503,
+        85670527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575656,
+        "gp:id":68805,
+        "qs:id":95957,
+        "wd:id":"Q1972895",
+        "wk:page":"Pont Cass\u00e9"
+    },
+    "wof:country":"DM",
+    "wof:created":1469051810,
+    "wof:geomhash":"f4f002ec331f930ea0b2da602031f785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "locality_id":890429317,
+            "region_id":85670527
+        }
+    ],
+    "wof:id":890429317,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Pont Cass\u00e9",
+    "wof:parent_id":85670527,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35,
+    15.36667,
+    -61.35,
+    15.36667
+],
+  "geometry": {"coordinates":[-61.35,15.36667],"type":"Point"}
+}

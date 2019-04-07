@@ -1,0 +1,61 @@
+{
+  "id": 1309805423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25279,15.48255,-61.25279,15.48255",
+    "geom:latitude":15.48255,
+    "geom:longitude":-61.25279,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gaulette",
+    "gn:country_code":"DM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575804,
+    "gn:latitude":15.48255,
+    "gn:longitude":-61.25279,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gaulette",
+    "gn:population":0,
+    "gn:timezone":"America/Dominica",
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575804
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"d4ad48ee982649fc653c49545e9863de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309805423,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309805423,
+    "wof:lastmodified":1536932317,
+    "wof:name":"Gaulette",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25279000000001,
+    15.48255,
+    -61.25279000000001,
+    15.48255
+],
+  "geometry": {"coordinates":[-61.25279000000001,15.48255],"type":"Point"}
+}

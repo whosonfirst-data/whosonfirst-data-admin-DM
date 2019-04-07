@@ -1,0 +1,315 @@
+{
+  "id": 85670499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009879,
+    "geom:area_square_m":117771342.192591,
+    "geom:bbox":"-61.3345710921,15.316662299,-61.2492569646,15.5099144551",
+    "geom:latitude":15.399591,
+    "geom:longitude":-61.28866,
+    "gn:population":7014,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint David Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.388259,
+    "lbl:longitude":-61.292112,
+    "mps:latitude":15.388259,
+    "mps:longitude":-61.292112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062f\u064a\u0641\u064a\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09a1\u09c7\u09ad\u09bf\u09a1 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint David"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint David"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u6234\u7dad\u5802\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint David"
+    ],
+    "name:dan_x_preferred":[
+        "Saint David Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint David"
+    ],
+    "name:dut_x_preferred":[
+        "Saint David"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b1\u03b2\u03af\u03b4"
+    ],
+    "name:eng_x_preferred":[
+        "Saint David"
+    ],
+    "name:eng_x_variant":[
+        "St David",
+        "St. David",
+        "Saint David Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062f\u06cc\u0648\u06cc\u062f\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Saint David"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-David"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-David"
+    ],
+    "name:ger_x_preferred":[
+        "Saint David"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b1\u03b2\u03af\u03b4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa1\u0ac7\u0ab5\u0abf\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0921\u0947\u0935\u093f\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint David"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint David"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30c7\u30a4\u30f4\u30a3\u30c3\u30c9\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0ca1\u0cc7\u0cb5\u0cbf\u0ca1\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ub370\uc774\ube44\ub4dc \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentdeivida pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Dovydo parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0921\u0947\u0935\u094d\u0939\u093f\u0921 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint David Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint David"
+    ],
+    "name:nob_x_preferred":[
+        "Saint David prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint David prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062f\u06cc\u0648\u06cc\u062f\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. Dawida na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint David"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u0414\u044d\u0432\u0438\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da9\u0dda\u0dc0\u0dd2\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint David"
+    ],
+    "name:swe_x_preferred":[
+        "Saint David"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9f\u0bc7\u0bb5\u0bbf\u0b9f\u0bcd   \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c21\u0c47\u0c35\u0c3f\u0c21\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e40\u0e14\u0e27\u0e34\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Saint David Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0435\u0432\u0456\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0688\u06cc\u0648\u0688 \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint David"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6234\u7dad\u5802\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1433",
+    "ne:adm1_code":"DMA-1433",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.DA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1433",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.03",
+    "ne:gn_id":"3575630",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint David",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO03",
+    "ne:gns_id":"-1352349",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint David",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.39560000000",
+    "ne:longitude":"-61.29190000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint David",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DA",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345162,
+    "ne:woe_label":"Saint David, DM, Dominica",
+    "ne:woe_name":"Saint David",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint David",
+    "qs:a1_lc":"DMA-1433",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"120",
+    "statoids:area_mi":"46",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO03",
+    "statoids:hasc":"DM.DA",
+    "statoids:iso":"03",
+    "statoids:name":"Saint David",
+    "statoids:population":"6043",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-03",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO03",
+        "gn:id":3575630,
+        "gp:id":2345162,
+        "hasc:id":"DM.DA",
+        "iso:id":"DM-03",
+        "qs:id":894870,
+        "unlc:id":"DM-03",
+        "wd:id":"Q1431129",
+        "wk:page":"Saint David Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"1e0bb9b6f457b6347489048c46417e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670499
+        }
+    ],
+    "wof:id":85670499,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint David",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":6043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"DA",
+    "wof:subdivision":"DM-03",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33457109208217,
+    15.31666229902595,
+    -61.24925696463714,
+    15.50991445508811
+],
+  "geometry": {"coordinates":[[[-61.25405787577029,15.33265557969128],[-61.29638220877189,15.32549896910217],[-61.30018042708502,15.32358694118443],[-61.30821611238366,15.31666229902595],[-61.3066658187725,15.32247589804433],[-61.30661414192906,15.32356110276271],[-61.30682084840339,15.32547313157983],[-61.3072859363968,15.32712677707917],[-61.30808692117444,15.3291421568851],[-61.30826778832773,15.32989146571862],[-61.30831946517117,15.33058909770875],[-61.30790605312183,15.3322427432081],[-61.3112391834415,15.33518829990015],[-61.32756893555791,15.34552358584489],[-61.327439745248,15.3877690698867],[-61.33457109208217,15.40495148452345],[-61.31736283992308,15.44487152769892],[-61.29842342789885,15.46228648543303],[-61.29385006412912,15.46538707085671],[-61.29346248960218,15.46515452685998],[-61.29302324092981,15.46499949812841],[-61.29268734414558,15.46487030691918],[-61.29240312420478,15.46492198286325],[-61.29167965379293,15.46507701339351],[-61.29129208016531,15.46505117407247],[-61.29062028659689,15.46492198286325],[-61.29028438981271,15.46492198286325],[-61.28958675782258,15.46530955739019],[-61.28873409710087,15.46603302690272],[-61.28702877475808,15.46784170203296],[-61.28449662921605,15.46993459710404],[-61.28410905558843,15.47008962673493],[-61.28377315880419,15.47016714110072],[-61.28214535172657,15.47019297952244],[-61.28168026373316,15.47027049388822],[-61.28113766137392,15.47042552351917],[-61.28056922059301,15.47073558188163],[-61.27953569181869,15.47156240508099],[-61.27591834155817,15.47515391691979],[-61.27529822483319,15.4756190049132],[-61.27491065120557,15.47577403454409],[-61.27465226878712,15.47771189998423],[-61.27537573919898,15.49802073846638],[-61.27576331192728,15.49944183996899],[-61.27413550484965,15.50313670549463],[-61.26862545490076,15.50991445508811],[-61.26716061127314,15.50779857064759],[-61.25767981706986,15.47260163016114],[-61.25601152251369,15.43593984604712],[-61.26292883969415,15.40790436439494],[-61.25837154860807,15.40631745039008],[-61.25422115758033,15.4029808612778],[-61.24925696463714,15.40106842686646],[-61.25552324100471,15.36456940295562],[-61.25405839827641,15.33266836085625],[-61.25405787577029,15.33265557969128]]],"type":"Polygon"}
+}

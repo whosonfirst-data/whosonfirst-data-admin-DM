@@ -1,0 +1,99 @@
+{
+  "id": 421199981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25,15.33333,-61.25,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":-61.25,
+    "iso:country":"DM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "La Plaine"
+    ],
+    "name:eng_x_preferred":[
+        "La Plaine"
+    ],
+    "name:fre_x_preferred":[
+        "La-Plaine"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03bb\u03b1\u03b9\u03bd"
+    ],
+    "name:pol_x_preferred":[
+        "La Plaine"
+    ],
+    "name:por_x_preferred":[
+        "La Plaine"
+    ],
+    "name:rum_x_preferred":[
+        "La Plaine"
+    ],
+    "name:swe_x_preferred":[
+        "La Plaine"
+    ],
+    "qs:gn_country":"DM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575755,
+    "qs:gn_pop":1332,
+    "qs:name":"La Plaine",
+    "qs:name_adm0":"Dominica",
+    "qs:name_adm1":"Saint Patrick",
+    "qs:photos":792,
+    "qs:photos_1k":160,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":792,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":560994,
+    "qs:woe_adm0":23424798,
+    "qs:woe_id":68797,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575755,
+        "gp:id":68797,
+        "qs:id":560994,
+        "wd:id":"Q3174970",
+        "wk:page":"La Plaine, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:created":1459010007,
+    "wof:geomhash":"48c2cd2c97a0c13bae23756e1b5c689b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632503,
+            "locality_id":421199981
+        }
+    ],
+    "wof:id":421199981,
+    "wof:lastmodified":1553816387,
+    "wof:name":"La Plaine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1332,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25,
+    15.33333,
+    -61.25,
+    15.33333
+],
+  "geometry": {"coordinates":[-61.25,15.33333],"type":"Point"}
+}

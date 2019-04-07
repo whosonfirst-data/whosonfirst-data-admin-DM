@@ -1,0 +1,315 @@
+{
+  "id": 85670503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004504,
+    "geom:area_square_m":53723258.920104,
+    "geom:bbox":"-61.3935991288,15.253797919,-61.3041595117,15.3455235858",
+    "geom:latitude":15.303056,
+    "geom:longitude":-61.347586,
+    "gn:population":20441,
+    "iso:country":"DM",
+    "label:eng_x_preferred_longname":[
+        "Saint George Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":15.30399,
+    "lbl:longitude":-61.346915,
+    "mps:latitude":15.30399,
+    "mps:longitude":-61.346915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062c\u0648\u0631\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09b0\u09cd\u099c \u09aa\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de Saint George"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint George"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u55ac\u6cbb\u5802\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint George"
+    ],
+    "name:dan_x_preferred":[
+        "Saint George Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint George"
+    ],
+    "name:dut_x_preferred":[
+        "Saint George"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint George"
+    ],
+    "name:eng_x_variant":[
+        "St George",
+        "St. George",
+        "Saint George Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0648\u0631\u062c\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Saint George"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-George"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-George"
+    ],
+    "name:ger_x_preferred":[
+        "Saint George"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint George"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint George"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30fc\u30b8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentd\u017eord\u017ea pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Jurgio parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint George Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint George"
+    ],
+    "name:nob_x_preferred":[
+        "Saint George prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint George prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0648\u0631\u062c\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia \u015bw. Jerzego na Dominice"
+    ],
+    "name:por_x_preferred":[
+        "Saint George"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0da2\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint George"
+    ],
+    "name:swe_x_preferred":[
+        "Saint George"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd  \u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e21\u0e32\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Saint George Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0631\u062c \u067e\u06cc\u0631\u0634\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint George"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u55ac\u6cbb\u5802\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DMA",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DMA-1434",
+    "ne:adm1_code":"DMA-1434",
+    "ne:admin":"Dominica",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DM.GO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1434",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DO04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Dominica",
+    "ne:gn_a1_code":"DM.04",
+    "ne:gn_id":"3575628",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint George",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"DO04",
+    "ne:gns_id":"-1352351",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint George",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DMA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DM-",
+    "ne:iso_a2":"DM",
+    "ne:labelrank":"10",
+    "ne:latitude":"15.30000000000",
+    "ne:longitude":"-61.34890000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Saint George",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GO",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"DMA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345163,
+    "ne:woe_label":"Saint George, DM, Dominica",
+    "ne:woe_name":"Saint George",
+    "qs:a0":"Dominica",
+    "qs:a0_lc":"DM",
+    "qs:a1":"Saint George",
+    "qs:a1_lc":"DMA-1434",
+    "qs:adm0":"Dominica",
+    "qs:adm0_a3":"DMA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-14",
+    "statoids:area_km":"55",
+    "statoids:area_mi":"21",
+    "statoids:as_of_date":"2011-05-14",
+    "statoids:capital":"",
+    "statoids:country":"DM",
+    "statoids:gec":"DO04",
+    "statoids:hasc":"DM.GO",
+    "statoids:iso":"04",
+    "statoids:name":"Saint George",
+    "statoids:population":"21241",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"DM-04",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191575,
+        85632503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DO04",
+        "gn:id":3575628,
+        "gp:id":2345163,
+        "hasc:id":"DM.GO",
+        "iso:id":"DM-04",
+        "qs:id":894871,
+        "unlc:id":"DM-04",
+        "wd:id":"Q617801",
+        "wk:page":"Saint George Parish, Dominica"
+    },
+    "wof:country":"DM",
+    "wof:geomhash":"2d1dc56c30024a772fe9c081f7af4aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632503,
+            "region_id":85670503
+        }
+    ],
+    "wof:id":85670503,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814767,
+    "wof:name":"Saint George",
+    "wof:parent_id":85632503,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":21241,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dm",
+    "wof:shortcode":"GO",
+    "wof:subdivision":"DM-04",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39359912879672,
+    15.25379791903879,
+    -61.30415951165207,
+    15.34552358584489
+],
+  "geometry": {"coordinates":[[[-61.30821611238366,15.31666229902595],[-61.30462459964554,15.31410431596146],[-61.30415951165207,15.31353587518055],[-61.30431454128302,15.31203725841277],[-61.31658769356716,15.29221934724512],[-61.31945573589348,15.28950633454974],[-61.32346065888225,15.28679332095504],[-61.33271074100787,15.28209076597614],[-61.34265845422425,15.27433930151761],[-61.35661109132877,15.25379791903879],[-61.37314754902013,15.26033498846897],[-61.3731788283402,15.2603473523485],[-61.37328040316805,15.26642487270976],[-61.3727921207597,15.27069733321542],[-61.37828528593718,15.28204987200405],[-61.39093990815019,15.29629140822198],[-61.39321855369326,15.30829498962214],[-61.39359912879672,15.31356249601242],[-61.39358557781213,15.31356171270295],[-61.38195838067469,15.31288991913453],[-61.38164832231217,15.31291575845552],[-61.37986548470434,15.31281240476869],[-61.37927120640103,15.31286408071281],[-61.37735917758391,15.31335500712794],[-61.37684241364644,15.31338084644898],[-61.3764031640747,15.31335500712794],[-61.37596391540234,15.31322581591871],[-61.375550503353,15.31317413997465],[-61.37485287136286,15.31332916870622],[-61.37407772500694,15.31353587518055],[-61.37260494666094,15.31480194705227],[-61.37167477067408,15.31635223976411],[-61.36945268439382,15.32340607313182],[-61.36927181724053,15.32381948518116],[-61.36911678671032,15.32418122038706],[-61.36880672924713,15.3249046898996],[-61.32756893555791,15.34552358584489],[-61.3112391834415,15.33518829990015],[-61.30790605312183,15.3322427432081],[-61.30831946517117,15.33058909770875],[-61.30826778832773,15.32989146571862],[-61.30808692117444,15.3291421568851],[-61.3072859363968,15.32712677707917],[-61.30682084840339,15.32547313157983],[-61.30661414192906,15.32356110276271],[-61.3066658187725,15.32247589804433],[-61.30821611238366,15.31666229902595]]],"type":"Polygon"}
+}
