@@ -139,9 +139,6 @@
     "name:cym_x_preferred":[
         "Dominica"
     ],
-    "name:cze_x_preferred":[
-        "Dominika"
-    ],
     "name:dan_x_preferred":[
         "Dominica"
     ],
@@ -212,8 +209,7 @@
         "Dominique"
     ],
     "name:fra_x_variant":[
-        "\u00cele Dominique",
-        "Dominique"
+        "\u00cele Dominique"
     ],
     "name:frp_x_preferred":[
         "Domenica (payis)",
@@ -866,7 +862,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059205,
+    "wof:lastmodified":1561778191,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

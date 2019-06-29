@@ -22,17 +22,11 @@
     "name:afr_x_preferred":[
         "Roseau"
     ],
-    "name:alb_x_preferred":[
-        "Roseau"
-    ],
     "name:amh_x_preferred":[
         "\u122e\u12de"
     ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u0633\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0566\u0578"
     ],
     "name:ast_x_preferred":[
         "Roseau"
@@ -42,9 +36,6 @@
     ],
     "name:aze_x_preferred":[
         "Rozo"
-    ],
-    "name:baq_x_preferred":[
-        "Roseau"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0437\u043e"
@@ -67,22 +58,19 @@
     "name:cdo_x_preferred":[
         "Roseau"
     ],
+    "name:ces_x_preferred":[
+        "Roseau"
+    ],
     "name:che_x_preferred":[
         "\u0420\u043e\u0437\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u7d22"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Roseau"
     ],
     "name:dan_x_preferred":[
         "Roseau"
     ],
     "name:deu_x_preferred":[
-        "Roseau"
-    ],
-    "name:dut_x_preferred":[
         "Roseau"
     ],
     "name:ell_x_preferred":[
@@ -97,6 +85,9 @@
     "name:est_x_preferred":[
         "Roseau"
     ],
+    "name:eus_x_preferred":[
+        "Roseau"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0633\u0648"
     ],
@@ -106,16 +97,7 @@
     "name:fra_x_preferred":[
         "Roseau"
     ],
-    "name:fre_x_preferred":[
-        "Roseau"
-    ],
     "name:fry_x_preferred":[
-        "Roseau"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d6\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Roseau"
     ],
     "name:gla_x_preferred":[
@@ -126,9 +108,6 @@
     ],
     "name:glg_x_preferred":[
         "Roseau"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03b6\u03cc"
     ],
     "name:hak_x_preferred":[
         "Roseau"
@@ -151,13 +130,13 @@
     "name:hye_x_preferred":[
         "\u054c\u0578\u0566\u0578"
     ],
-    "name:ice_x_preferred":[
-        "Roseau"
-    ],
     "name:ido_x_preferred":[
         "Roseau"
     ],
     "name:ind_x_preferred":[
+        "Roseau"
+    ],
+    "name:isl_x_preferred":[
         "Roseau"
     ],
     "name:ita_x_preferred":[
@@ -186,9 +165,6 @@
     ],
     "name:lmo_x_preferred":[
         "Roseau"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u043e\u0437\u043e"
     ],
     "name:mar_x_preferred":[
         "\u0930\u0941\u0938\u093e\u0909"
@@ -232,9 +208,6 @@
     "name:pap_x_preferred":[
         "Roseau"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0633\u0648"
-    ],
     "name:pms_x_preferred":[
         "Roseau"
     ],
@@ -244,7 +217,7 @@
     "name:por_x_preferred":[
         "Roseau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Roseau"
     ],
     "name:rus_x_preferred":[
@@ -259,9 +232,6 @@
     "name:slk_x_preferred":[
         "Roseau"
     ],
-    "name:slo_x_preferred":[
-        "Roseau"
-    ],
     "name:slv_x_preferred":[
         "Roseau"
     ],
@@ -269,6 +239,9 @@
         "Roseau"
     ],
     "name:spa_x_preferred":[
+        "Roseau"
+    ],
+    "name:sqi_x_preferred":[
         "Roseau"
     ],
     "name:srp_x_preferred":[
@@ -288,9 +261,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e23\u0e42\u0e0b"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f62\u0f74\u0f0b\u0f5f\u0f7c\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Roseau"
@@ -314,9 +284,6 @@
         "Roseau"
     ],
     "name:war_x_preferred":[
-        "Roseau"
-    ],
-    "name:wel_x_preferred":[
         "Roseau"
     ],
     "name:yor_x_preferred":[
@@ -451,7 +418,7 @@
     },
     "wof:country":"DM",
     "wof:created":1469052350,
-    "wof:geomhash":"10973ddb790a679f1bb0d223fbe5a266",
+    "wof:geomhash":"2dd795e7e86b99fa8f3b30b9f23d6d73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -461,7 +428,7 @@
         }
     ],
     "wof:id":890442101,
-    "wof:lastmodified":1552519485,
+    "wof:lastmodified":1561778193,
     "wof:name":"Roseau",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",
@@ -474,7 +441,7 @@
 },
   "bbox": [
     -61.39359912879672,
-    15.286310717662113,
+    15.28631071766211,
     -61.35050872860973,
     15.32748758590238
 ],

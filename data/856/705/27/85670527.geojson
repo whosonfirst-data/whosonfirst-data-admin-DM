@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005195,
-    "geom:area_square_m":61947696.320143,
+    "geom:area_square_m":61947696.320141,
     "geom:bbox":"-61.4160071774,15.3128124048,-61.3274397452,15.4049514845",
     "geom:latitude":15.362004,
     "geom:longitude":-61.368189,
@@ -37,9 +37,6 @@
     "name:ceb_x_preferred":[
         "Saint Paul"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4fdd\u7f85\u5802\u5340"
-    ],
     "name:cor_x_preferred":[
         "Saint Paul"
     ],
@@ -47,9 +44,6 @@
         "Saint Paul Parish"
     ],
     "name:deu_x_preferred":[
-        "Saint Paul"
-    ],
-    "name:dut_x_preferred":[
         "Saint Paul"
     ],
     "name:ell_x_preferred":[
@@ -71,15 +65,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Paul"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-Paul"
-    ],
-    "name:ger_x_preferred":[
-        "Saint Paul"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a87\u0aa8\u0acd\u0a9f \u0aaa\u0acc\u0ab2 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -111,7 +96,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092a\u0949\u0932 \u092a\u0945\u0930\u0940\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saint Paul Parish"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +107,6 @@
     ],
     "name:nor_x_preferred":[
         "Saint Paul prestegjeld"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u067e\u0644\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Parafia \u015bw. Paw\u0142a na Dominice"
@@ -290,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814767,
+    "wof:lastmodified":1561778192,
     "wof:name":"Saint Paul",
     "wof:parent_id":85632503,
     "wof:placetype":"region",
