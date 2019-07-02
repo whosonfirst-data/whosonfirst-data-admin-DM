@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Soufri\u00e8re"
     ],
-    "name:dut_x_preferred":[
-        "Soufri\u00e8re"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03c6\u03c1\u03b9\u03ad\u03c1"
     ],
@@ -37,23 +34,14 @@
     "name:fra_x_preferred":[
         "Soufri\u00e8re"
     ],
-    "name:fre_x_preferred":[
-        "Soufri\u00e8re"
-    ],
-    "name:ger_x_preferred":[
-        "Soufri\u00e8re"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03c6\u03c1\u03b9\u03ad\u03c1"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e4\u05e8\u05d9\u05d9\u05e8"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30d5\u30ea\u30a8\u30fc\u30eb"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0641\u06cc\u0631\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Soufri\u00e8re"
     ],
     "name:pol_x_preferred":[
         "Soufri\u00e9re"
@@ -61,7 +49,7 @@
     "name:por_x_preferred":[
         "Soufri\u00e9re"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Soufri\u00e8re"
     ],
     "name:spa_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":421196673,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561778193,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85670519,
     "wof:placetype":"locality",

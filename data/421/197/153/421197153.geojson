@@ -21,9 +21,6 @@
     "name:deu_x_preferred":[
         "Pointe Michel"
     ],
-    "name:dut_x_preferred":[
-        "Pointe Michel"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4 \u039c\u03b9\u03c3\u03ad\u03bb"
     ],
@@ -36,20 +33,14 @@
     "name:fra_x_preferred":[
         "Pointe-Michel"
     ],
-    "name:fre_x_preferred":[
-        "Pointe-Michel"
-    ],
-    "name:ger_x_preferred":[
-        "Pointe Michel"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4 \u039c\u03b9\u03c3\u03ad\u03bb"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d9\u05e0\u05d8 \u05de\u05d9\u05e9\u05dc"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ef\u30f3\u30c8\u30fb\u30de\u30a4\u30b1\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Pointe Michel"
     ],
     "name:pol_x_preferred":[
         "Pointe Michel"
@@ -58,9 +49,6 @@
         "Pointe Michel"
     ],
     "name:ron_x_preferred":[
-        "Pointe Michel"
-    ],
-    "name:rum_x_preferred":[
         "Pointe Michel"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421197153,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561778193,
     "wof:name":"Pointe Michel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

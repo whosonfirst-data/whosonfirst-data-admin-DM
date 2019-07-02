@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00089,
-    "geom:area_square_m":10617109.530708,
+    "geom:area_square_m":10617109.530699,
     "geom:bbox":"-61.3761287099,15.2018089866,-61.346383724,15.2437985299",
     "geom:latitude":15.220635,
     "geom:longitude":-61.362001,
@@ -37,9 +37,6 @@
     "name:ceb_x_preferred":[
         "Saint Mark"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u99ac\u514b\u5802\u5340"
-    ],
     "name:cor_x_preferred":[
         "Saint Mark"
     ],
@@ -47,9 +44,6 @@
         "Saint Mark Parish"
     ],
     "name:deu_x_preferred":[
-        "Saint Mark"
-    ],
-    "name:dut_x_preferred":[
         "Saint Mark"
     ],
     "name:ell_x_preferred":[
@@ -71,15 +65,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Mark"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-Mark"
-    ],
-    "name:ger_x_preferred":[
-        "Saint Mark"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03c1\u03ba\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aae\u0abe\u0ab0\u0acd\u0a95 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -111,7 +96,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092e\u093e\u0930\u094d\u0915 \u092a\u0945\u0930\u0940\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saint Mark Parish"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +107,6 @@
     ],
     "name:nor_x_preferred":[
         "Saint Mark prestegjeld"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u0645\u0627\u0631\u06a9\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Parafia \u015bw. Marka na Dominice"
@@ -290,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814767,
+    "wof:lastmodified":1561778192,
     "wof:name":"Saint Mark",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

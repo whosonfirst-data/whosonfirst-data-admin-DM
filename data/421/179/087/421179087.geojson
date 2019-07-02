@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Portsmouth"
     ],
-    "name:dut_x_preferred":[
-        "Portsmouth"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03c1\u03c4\u03c3\u03bc\u03bf\u03c5\u03b8"
     ],
@@ -33,15 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Portsmouth"
-    ],
-    "name:fre_x_preferred":[
-        "Portsmouth"
-    ],
-    "name:ger_x_preferred":[
-        "Portsmouth"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03c1\u03c4\u03c3\u03bc\u03bf\u03c5\u03b8"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8\u05e1\u05de\u05d5\u05ea'"
@@ -61,9 +49,6 @@
     "name:nld_x_preferred":[
         "Portsmouth"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0633\u0645\u0648\u062b\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Portsmouth"
     ],
@@ -71,9 +56,6 @@
         "Portsmouth"
     ],
     "name:ron_x_preferred":[
-        "Portsmouth"
-    ],
-    "name:rum_x_preferred":[
         "Portsmouth"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +122,7 @@
         }
     ],
     "wof:id":421179087,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561778193,
     "wof:name":"Portsmouth",
     "wof:parent_id":85670509,
     "wof:placetype":"locality",
