@@ -15,6 +15,9 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rosalie"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03b6\u03b1\u03bb\u03af"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:swe_x_preferred":[
         "Rosalie"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u838e\u8389"
     ],
     "qs:name":"Rosalie",
     "qs:photos_9r":0,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890455323,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321902,
     "wof:name":"Rosalie",
     "wof:parent_id":85670499,
     "wof:placetype":"locality",
