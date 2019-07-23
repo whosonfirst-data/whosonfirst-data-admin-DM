@@ -63,6 +63,9 @@
     "name:unk_x_variant":[
         "La Pointe"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u6b47\u723e\u89d2"
+    ],
     "qs:name":"Pointe Michel",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890429577,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321903,
     "wof:name":"Pointe Michel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Colihaut"
+    ],
     "name:deu_x_preferred":[
         "Colihaut"
     ],
@@ -54,6 +57,9 @@
     "name:unk_x_variant":[
         "Coulihaut"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5229\u6b50"
+    ],
     "qs:name":"Colihaut",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890420161,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321903,
     "wof:name":"Colihaut",
     "wof:parent_id":85670531,
     "wof:placetype":"locality",

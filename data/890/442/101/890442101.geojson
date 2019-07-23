@@ -58,6 +58,9 @@
     "name:cdo_x_preferred":[
         "Roseau"
     ],
+    "name:ceb_x_preferred":[
+        "Roseau"
+    ],
     "name:ces_x_preferred":[
         "Roseau"
     ],
@@ -109,6 +112,9 @@
     "name:glg_x_preferred":[
         "Roseau"
     ],
+    "name:grn_x_preferred":[
+        "Roseau"
+    ],
     "name:hak_x_preferred":[
         "Roseau"
     ],
@@ -120,6 +126,9 @@
     ],
     "name:hif_x_preferred":[
         "Roseau"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0938\u0940\u092f\u0942"
     ],
     "name:hrv_x_preferred":[
         "Roseau"
@@ -171,6 +180,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0437\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Roseau"
     ],
     "name:nah_x_preferred":[
         "Roseau"
@@ -428,7 +440,7 @@
         }
     ],
     "wof:id":890442101,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321905,
     "wof:name":"Roseau",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",

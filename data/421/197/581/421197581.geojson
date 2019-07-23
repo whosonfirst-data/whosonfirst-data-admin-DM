@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Saint Joseph"
+    ],
     "name:deu_x_preferred":[
         "Saint Joseph"
     ],
@@ -55,6 +58,9 @@
     "name:unk_x_variant":[
         "Saint Joseph"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u7d04\u745f\u592b"
+    ],
     "qs:gn_country":"DM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3575624,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421197581,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321900,
     "wof:name":"St. Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

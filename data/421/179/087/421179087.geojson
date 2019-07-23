@@ -28,6 +28,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0633\u0645\u0648\u062b\u060c \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0648\u0631\u062a\u0633\u0645\u0648\u062b"
+    ],
     "name:fra_x_preferred":[
         "Portsmouth"
     ],
@@ -72,6 +75,12 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679\u0633 \u0645\u0627\u0624\u062a\u06be\u060c \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0648\u0631\u0679\u0633 \u0645\u0627\u0624\u062a\u06be"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a38\u8328\u8305\u592b"
     ],
     "qs:gn_country":"DM",
     "qs:gn_fcode":"PPL",
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421179087,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321901,
     "wof:name":"Portsmouth",
     "wof:parent_id":85670509,
     "wof:placetype":"locality",

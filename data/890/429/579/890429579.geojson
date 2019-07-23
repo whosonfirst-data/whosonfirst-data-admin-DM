@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0443\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Mahaut"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ce"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:swe_x_preferred":[
         "Mahaut"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6b50"
     ],
     "qs:name":"Mahaut",
     "qs:photos_9r":0,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890429579,
-    "wof:lastmodified":1561778193,
+    "wof:lastmodified":1563321902,
     "wof:name":"Mahaut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
