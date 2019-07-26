@@ -25,6 +25,9 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lagon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1226247587,
-    "wof:lastmodified":1536931659,
+    "wof:lastmodified":1564129392,
     "wof:name":"Lagon",
     "wof:parent_id":85670509,
     "wof:placetype":"locality",

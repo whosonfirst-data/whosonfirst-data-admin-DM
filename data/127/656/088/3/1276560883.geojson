@@ -25,6 +25,24 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paix Bouche"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03b9 \u039c\u03c0\u03bf\u03c5\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0647 \u067e\u0648\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Paix Bouche"
+    ],
+    "name:ron_x_preferred":[
+        "Paix Bouche"
+    ],
+    "name:swe_x_preferred":[
+        "Paix Bouche"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1276560883,
-    "wof:lastmodified":1537504223,
+    "wof:lastmodified":1564129381,
     "wof:name":"Paix Bouche",
     "wof:parent_id":85670495,
     "wof:placetype":"locality",

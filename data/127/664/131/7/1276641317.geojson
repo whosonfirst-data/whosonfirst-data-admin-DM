@@ -26,9 +26,33 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Scotts Head"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c4\u03c2 \u03a7\u03b5\u03bd\u03c4"
+    ],
+    "name:fin_x_preferred":[
+        "Scotts Head"
+    ],
+    "name:fra_x_preferred":[
+        "Scotts Head"
+    ],
+    "name:lit_x_preferred":[
+        "Skots Hydas"
+    ],
+    "name:pol_x_preferred":[
+        "Scotts Head"
+    ],
+    "name:ron_x_preferred":[
+        "Scotts Head"
+    ],
     "name:und_x_variant":[
         "Cachacrou",
         "Scotts Head Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u8328\u89d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1276641317,
-    "wof:lastmodified":1537619901,
+    "wof:lastmodified":1564129382,
     "wof:name":"Scotts Head Village",
     "wof:parent_id":85670519,
     "wof:placetype":"locality",
