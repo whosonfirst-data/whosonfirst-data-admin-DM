@@ -26,9 +26,27 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laudat"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03c9\u03bd\u03c4\u03ac"
+    ],
+    "name:pol_x_preferred":[
+        "Laudat"
+    ],
+    "name:por_x_preferred":[
+        "Laudat"
+    ],
+    "name:ron_x_preferred":[
+        "Laudat"
+    ],
     "name:und_x_variant":[
         "Meudon",
         "Laudat"
+    ],
+    "name:zho_x_preferred":[
+        "\u52de\u9054\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260182397,
-    "wof:lastmodified":1537619902,
+    "wof:lastmodified":1564129386,
     "wof:name":"Laudat",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",
