@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":15.248313,
     "lbl:longitude":-61.365013,
     "mps:latitude":15.248313,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85670515,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321889,
+    "wof:lastmodified":1565672969,
     "wof:name":"Saint Luke",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":15.220519,
     "lbl:longitude":-61.362286,
     "mps:latitude":15.220519,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85670519,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321887,
+    "wof:lastmodified":1565672969,
     "wof:name":"Saint Mark",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JH"
+    ],
     "lbl:latitude":15.434628,
     "lbl:longitude":-61.380168,
     "mps:latitude":15.434628,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85670511,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321886,
+    "wof:lastmodified":1565672969,
     "wof:name":"Saint Joseph",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":15.359526,
     "lbl:longitude":-61.369031,
     "mps:latitude":15.359526,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85670527,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321886,
+    "wof:lastmodified":1565672969,
     "wof:name":"Saint Paul",
     "wof:parent_id":85632503,
     "wof:placetype":"region",
