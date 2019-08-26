@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":15.460196,
     "lbl:longitude":-61.356841,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":15.460196,
     "mps:longitude":-61.356841,
     "mz:hierarchy_label":1,
@@ -712,14 +714,8 @@
     "name:ukr_x_variant":[
         "\u0414\u043e\u043c\u0456\u043d\u0456\u043a"
     ],
-    "name:und_x_preferred":[
-        "Dominika",
-        "D\u00f3min\u00edka"
-    ],
     "name:und_x_variant":[
-        "Zveza Dominika"
-    ],
-    "name:unk_x_variant":[
+        "Zveza Dominika",
         "Colony of Dominica"
     ],
     "name:urd_x_preferred":[
@@ -870,7 +866,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-767",
     "statoids:ds":"WD",
@@ -915,7 +911,7 @@
         "mzb:id":"dominica",
         "ne:adm0_a3":"DMA",
         "nyt:id":"N11595291465969408061",
-        "qs:id":1085820,
+        "qs_pg:id":1085820,
         "uncrt:id":"WD",
         "wd:id":"Q784",
         "wk:page":"Dominica",
@@ -937,7 +933,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565672969,
+    "wof:lastmodified":1566581566,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

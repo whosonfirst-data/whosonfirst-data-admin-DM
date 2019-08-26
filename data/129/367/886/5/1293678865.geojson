@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Dominica",
     "iso:country":"DM",
+    "lbl:bbox":"-61.31336,15.22568,-61.27336,15.26568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stowe"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1293678865,
-    "wof:lastmodified":1564129380,
+    "wof:lastmodified":1566581569,
     "wof:name":"Stowe",
     "wof:parent_id":85670521,
     "wof:placetype":"locality",

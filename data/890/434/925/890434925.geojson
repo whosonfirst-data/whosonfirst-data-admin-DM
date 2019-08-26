@@ -11,10 +11,14 @@
     "geom:longitude":-61.3,
     "gn:country":"DM",
     "gn:fcode":"PPL",
-    "gn:pop":2669,
+    "gn:population":2669,
     "iso:country":"DM",
+    "lbl:bbox":"-61.32,15.51333,-61.28,15.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Marigot"
     ],
@@ -204,7 +208,7 @@
     "name:tur_x_preferred":[
         "Marigot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petit Marigot"
     ],
     "name:vec_x_preferred":[
@@ -243,7 +247,7 @@
     "wof:concordances":{
         "gn:id":3575721,
         "gp:id":12512609,
-        "qs:id":149019,
+        "qs_pg:id":149019,
         "wd:id":"Q352728",
         "wk:page":"Marigot"
     },
@@ -259,7 +263,7 @@
         }
     ],
     "wof:id":890434925,
-    "wof:lastmodified":1563321905,
+    "wof:lastmodified":1566581577,
     "wof:name":"Marigot",
     "wof:parent_id":85670495,
     "wof:placetype":"locality",
