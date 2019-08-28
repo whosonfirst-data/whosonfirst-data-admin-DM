@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Dominica",
     "iso:country":"DM",
+    "lbl:bbox":"-61.28617,15.26735,-61.24617,15.30735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Delices"
     ],
     "name:und_x_variant":[
-        "D\u00e9lices",
-        "Delices"
+        "D\u00e9lices"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5229\u65af"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1193133135,
-    "wof:lastmodified":1564129385,
+    "wof:lastmodified":1566581572,
     "wof:name":"Delices",
     "wof:parent_id":85670521,
     "wof:placetype":"locality",

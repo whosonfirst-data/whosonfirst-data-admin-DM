@@ -12,6 +12,7 @@
     "iso:country":"DM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu Douglas\u2013Charles"
     ],
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":102553891,
-    "wof:lastmodified":1563321879,
+    "wof:lastmodified":1566581564,
     "wof:name":"Melville Hall Airport",
     "wof:parent_id":85670495,
     "wof:placetype":"campus",

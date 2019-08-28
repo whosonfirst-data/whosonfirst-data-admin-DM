@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Dominica",
     "iso:country":"DM",
+    "lbl:bbox":"-61.35211,15.3172,-61.31211,15.3572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Laudat"
     ],
@@ -42,8 +46,7 @@
         "Laudat"
     ],
     "name:und_x_variant":[
-        "Meudon",
-        "Laudat"
+        "Meudon"
     ],
     "name:zho_x_preferred":[
         "\u52de\u9054\u7279"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260182397,
-    "wof:lastmodified":1564129386,
+    "wof:lastmodified":1566581572,
     "wof:name":"Laudat",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",

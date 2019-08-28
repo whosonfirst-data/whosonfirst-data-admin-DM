@@ -11,10 +11,12 @@
     "geom:longitude":-61.371959,
     "gn:country":"DM",
     "gn:fcode":"PPLC",
-    "gn:pop":16571,
+    "gn:population":16571,
     "iso:country":"DM",
     "lbl:latitude":15.30174,
     "lbl:longitude":-61.38808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -280,7 +282,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0437\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Charlotte Town"
     ],
     "name:urd_x_preferred":[
@@ -423,10 +425,12 @@
     "wof:concordances":{
         "gn:id":3575635,
         "gp:id":68829,
-        "qs:id":274430,
-        "qs_pg:id":453074,
+        "qs_pg:id":274430,
         "wd:id":"Q36281",
         "wk:page":"Roseau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":453074
     },
     "wof:country":"DM",
     "wof:created":1469052350,
@@ -440,7 +444,7 @@
         }
     ],
     "wof:id":890442101,
-    "wof:lastmodified":1563321905,
+    "wof:lastmodified":1566581576,
     "wof:name":"Roseau",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",
