@@ -434,6 +434,10 @@
     },
     "wof:country":"DM",
     "wof:created":1469052350,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"2dd795e7e86b99fa8f3b30b9f23d6d73",
     "wof:hierarchy":[
         {
@@ -444,7 +448,7 @@
         }
     ],
     "wof:id":890442101,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1582331739,
     "wof:name":"Roseau",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",

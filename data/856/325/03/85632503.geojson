@@ -919,6 +919,10 @@
     },
     "wof:country":"DM",
     "wof:country_alpha3":"DMA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"5b01c6806d3a27d5e90911c13d81a2d2",
     "wof:hierarchy":[
         {
@@ -933,7 +937,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581566,
+    "wof:lastmodified":1582331739,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
