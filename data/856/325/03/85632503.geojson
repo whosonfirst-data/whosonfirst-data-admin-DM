@@ -895,9 +895,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Dominica",
-        "digitalenvoy:country_code":[
-            212
-        ],
+        "digitalenvoy:country_code":212,
         "fb:id":"en.dominica",
         "fifa:id":"DMA",
         "fips:code":"DO",
@@ -940,7 +938,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529119,
+    "wof:lastmodified":1583797323,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
