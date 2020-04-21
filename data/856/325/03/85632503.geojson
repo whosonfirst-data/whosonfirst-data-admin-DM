@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064139,
-    "geom:area_square_m":764493677.269915,
+    "geom:area_square_m":764493404.697915,
     "geom:bbox":"-61.488724,15.204556,-61.249527,15.637917",
     "geom:latitude":15.432059,
     "geom:longitude":-61.359059,
@@ -52,6 +52,9 @@
     ],
     "name:arg_x_preferred":[
         "Dominica"
+    ],
+    "name:ary_x_preferred":[
+        "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627"
     ],
     "name:arz_x_preferred":[
         "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627"
@@ -150,6 +153,12 @@
     "name:dan_x_preferred":[
         "Dominica"
     ],
+    "name:deu_at_x_preferred":[
+        "Dominica"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Dominica"
+    ],
     "name:deu_x_preferred":[
         "Dominica"
     ],
@@ -170,6 +179,12 @@
     ],
     "name:ell_x_variant":[
         "\u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Dominica"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Dominica"
     ],
     "name:eng_x_preferred":[
         "Dominica"
@@ -237,6 +252,9 @@
     ],
     "name:gag_x_preferred":[
         "Dominika"
+    ],
+    "name:gcr_x_preferred":[
+        "Dominik"
     ],
     "name:ger_x_variant":[
         "Commonwealth Dominica"
@@ -554,6 +572,9 @@
     "name:pol_x_preferred":[
         "Dominika"
     ],
+    "name:por_br_x_preferred":[
+        "Dominica"
+    ],
     "name:por_x_preferred":[
         "Dominica"
     ],
@@ -589,6 +610,9 @@
     ],
     "name:san_x_preferred":[
         "\u0921\u094b\u092e\u094b\u0928\u093f\u0915\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c73\u1c62\u1c64\u1c71\u1c64\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Dominica"
@@ -636,11 +660,23 @@
     "name:sqi_x_variant":[
         "Dominik\u00eb"
     ],
+    "name:srd_x_preferred":[
+        "Dominica"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Dominika"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
     ],
     "name:ssw_x_preferred":[
         "IDomonokha"
+    ],
+    "name:stq_x_preferred":[
+        "Dominica"
     ],
     "name:sun_x_preferred":[
         "Dominika"
@@ -656,6 +692,9 @@
     ],
     "name:szl_x_preferred":[
         "D\u016fmi\u0144ika"
+    ],
+    "name:szy_x_preferred":[
+        "Dominica"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bca\u0bae\u0bbf\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe"
@@ -704,6 +743,9 @@
     ],
     "name:tur_x_variant":[
         "Dominik"
+    ],
+    "name:udm_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u062f\u0648\u0645\u0649\u0646\u0649\u0643\u0627"
@@ -775,8 +817,26 @@
     "name:zha_x_preferred":[
         "Dominica"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Dominica"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b"
     ],
     "name:zho_x_preferred":[
         "\u591a\u7c73\u5c3c\u514b"
@@ -938,7 +998,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797323,
+    "wof:lastmodified":1587428846,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
