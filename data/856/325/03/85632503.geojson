@@ -231,11 +231,11 @@
         "Ile Dominique"
     ],
     "name:fra_x_preferred":[
-        "Dominique (pays)",
         "Dominique"
     ],
     "name:fra_x_variant":[
-        "\u00cele Dominique"
+        "\u00cele Dominique",
+        "Dominique (pays)"
     ],
     "name:frp_x_preferred":[
         "Domenica (payis)",
@@ -998,7 +998,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1587428846,
+    "wof:lastmodified":1614893733,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
