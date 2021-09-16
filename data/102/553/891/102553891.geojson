@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-61.3,15.5469444444,-61.3,15.5469444444",
+    "geom:bbox":"-61.3,15.546944,-61.3,15.546944",
     "geom:latitude":15.546944,
     "geom:longitude":-61.3,
     "iso:country":"DM",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Douglas\u2013Charles Airport"
+    ],
+    "name:eng_x_variant":[
+        "DOM",
+        "TDPD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0644\u0648\u06cc\u0644 \u0647\u0627\u0644"
@@ -95,7 +99,7 @@
         "wd:id":"Q652545"
     },
     "wof:country":"DM",
-    "wof:geomhash":"ea7b6859391dc7240374f844017785be",
+    "wof:geomhash":"52e6e2f8039d70932c769d2a1653cfbf",
     "wof:hierarchy":[
         {
             "campus_id":102553891,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":102553891,
-    "wof:lastmodified":1566581564,
+    "wof:lastmodified":1631747382,
     "wof:name":"Melville Hall Airport",
     "wof:parent_id":85670495,
     "wof:placetype":"campus",
@@ -117,9 +121,9 @@
 },
   "bbox": [
     -61.3,
-    15.546944444444,
+    15.546944,
     -61.3,
-    15.546944444444
+    15.546944
 ],
-  "geometry": {"coordinates":[-61.3,15.546944444444],"type":"Point"}
+  "geometry": {"coordinates":[-61.3,15.546944],"type":"Point"}
 }
