@@ -29,6 +29,9 @@
         "Salisbury"
     ],
     "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03b9\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
         "\u03a3\u03b1\u03bb\u03b9\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
@@ -39,6 +42,15 @@
     ],
     "name:fra_x_preferred":[
         "Salisbury"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0932\u093f\u0938\u092c\u0930\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Salisbury"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\uc988\ubca0\ub9ac"
     ],
     "name:lit_x_preferred":[
         "Solsberis"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125963157,
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1636497503,
     "wof:name":"Salisbury",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

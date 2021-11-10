@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09cb\u09b8\u09c7\u09ab"
+    ],
     "name:ceb_x_preferred":[
         "Saint Joseph"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8 \u05d2'\u05d5\u05d6\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u094b\u0938\u0947\u092b\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "St. Joseph"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30bc\u30d5"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421197581,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1636497502,
     "wof:name":"St. Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

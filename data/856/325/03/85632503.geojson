@@ -836,6 +836,9 @@
         "\u591a\u7c73\u5c3c\u514b"
     ],
     "name:zho_tw_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b\u5cf6"
+    ],
+    "name:zho_tw_x_variant":[
         "\u591a\u7c73\u5c3c\u514b"
     ],
     "name:zho_x_preferred":[
@@ -1063,7 +1066,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827451,
+    "wof:lastmodified":1636497500,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

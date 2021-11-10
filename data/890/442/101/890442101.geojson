@@ -42,6 +42,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0437\u043e"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09b8\u09c7\u0989"
+    ],
     "name:bod_x_preferred":[
         "\u0f62\u0f74\u0f0b\u0f5f\u0f7c\u0f0d"
     ],
@@ -450,7 +453,7 @@
         }
     ],
     "wof:id":890442101,
-    "wof:lastmodified":1607390888,
+    "wof:lastmodified":1636497503,
     "wof:name":"Roseau",
     "wof:parent_id":85670503,
     "wof:placetype":"locality",
