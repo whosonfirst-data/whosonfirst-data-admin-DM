@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
+    ],
     "name:afr_x_preferred":[
         "Dominica"
     ],
@@ -38,6 +41,9 @@
     "name:aka_x_preferred":[
         "D\u0254meneka"
     ],
+    "name:aka_x_variant":[
+        "Dominica"
+    ],
     "name:als_x_preferred":[
         "Dominica"
     ],
@@ -46,6 +52,15 @@
     ],
     "name:amh_x_variant":[
         "\u12f6\u121a\u1292\u12ab"
+    ],
+    "name:ami_x_preferred":[
+        "Dominica"
+    ],
+    "name:ang_x_preferred":[
+        "Dominica"
+    ],
+    "name:anp_x_preferred":[
+        "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e"
     ],
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627"
@@ -77,6 +92,9 @@
     "name:bam_x_preferred":[
         "D\u0254miniki"
     ],
+    "name:ban_x_preferred":[
+        "Dominika"
+    ],
     "name:bar_x_preferred":[
         "Dominica"
     ],
@@ -98,6 +116,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Dominika"
     ],
     "name:bod_x_preferred":[
         "\u0f4c\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f40"
@@ -138,6 +159,9 @@
     "name:che_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
     ],
+    "name:chr_x_preferred":[
+        "\u13d9\u13bb\u13c2\u13a7"
+    ],
     "name:ckb_x_preferred":[
         "\u062f\u06c6\u0645\u06cc\u0646\u06cc\u06a9\u0627"
     ],
@@ -148,6 +172,9 @@
         "Dominika"
     ],
     "name:cym_x_preferred":[
+        "Dominica"
+    ],
+    "name:dag_x_preferred":[
         "Dominica"
     ],
     "name:dan_x_preferred":[
@@ -274,6 +301,9 @@
     "name:gom_x_preferred":[
         "\u0921\u0949\u092e\u093f\u0928\u093f\u0915\u093e"
     ],
+    "name:gpe_x_preferred":[
+        "Dominica"
+    ],
     "name:grn_x_preferred":[
         "Ndomin\u00edka"
     ],
@@ -363,6 +393,9 @@
     "name:kaa_x_preferred":[
         "Dominika"
     ],
+    "name:kab_x_preferred":[
+        "Duminik"
+    ],
     "name:kal_x_preferred":[
         "Dominica"
     ],
@@ -397,6 +430,9 @@
     "name:kur_x_preferred":[
         "\u062f\u06c6\u0645\u06cc\u0646\u06cc\u06a9\u0627"
     ],
+    "name:kur_x_variant":[
+        "Dom\u00een\u00eeka"
+    ],
     "name:lad_x_preferred":[
         "Dominika"
     ],
@@ -428,6 +464,9 @@
     "name:lit_x_preferred":[
         "Dominika"
     ],
+    "name:lld_x_preferred":[
+        "Dominica"
+    ],
     "name:lmo_x_preferred":[
         "Dominica"
     ],
@@ -443,6 +482,9 @@
     "name:lzh_x_preferred":[
         "\u591a\u7c73\u5c3c\u514b"
     ],
+    "name:mad_x_preferred":[
+        "Dominika"
+    ],
     "name:mal_x_preferred":[
         "\u0d21\u0d4a\u0d2e\u0d28\u0d3f\u0d15\u0d4d\u0d15"
     ],
@@ -455,11 +497,17 @@
     "name:mar_x_variant":[
         "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
+    ],
     "name:mhr_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0435"
     ],
     "name:mhr_x_variant":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
+    ],
+    "name:min_x_preferred":[
+        "Dominika"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
@@ -467,11 +515,23 @@
     "name:mlg_x_preferred":[
         "Dominika"
     ],
+    "name:mlg_x_variant":[
+        "D\u00f4minika"
+    ],
     "name:mlt_x_preferred":[
         "Dominika"
     ],
+    "name:mlt_x_variant":[
+        "Dominica"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd7\uabe3\uabc3\uabe4\uabc5\uabe4\uabc0\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Tominika"
     ],
     "name:mrj_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
@@ -584,11 +644,17 @@
     "name:que_x_preferred":[
         "Duminika"
     ],
+    "name:rmy_x_preferred":[
+        "Dominica"
+    ],
     "name:roh_x_preferred":[
         "Dominica"
     ],
     "name:ron_x_preferred":[
         "Dominica"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
     ],
     "name:run_x_preferred":[
         "Dominika"
@@ -626,6 +692,9 @@
     "name:sgs_x_variant":[
         "Duom\u0117n\u0117\u0305ka"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1010\u1030\u101d\u103a\u1087\u1019\u102e\u1087\u107c\u102d\u1075"
+    ],
     "name:sin_x_preferred":[
         "\u0da9\u0ddc\u0db8\u0dd2\u0db1\u0dd2\u0d9a\u0dcf\u0dc0"
     ],
@@ -637,6 +706,12 @@
         "Dominika"
     ],
     "name:sme_x_preferred":[
+        "Dominica"
+    ],
+    "name:smn_x_preferred":[
+        "Dominica"
+    ],
+    "name:sms_x_preferred":[
         "Dominica"
     ],
     "name:sna_x_preferred":[
@@ -705,6 +780,9 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
     ],
+    "name:tay_x_preferred":[
+        "Dominica"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4b\u0c2e\u0c46\u0c28\u0c3f\u0c15"
     ],
@@ -734,6 +812,9 @@
     ],
     "name:ton_x_preferred":[
         "Tominika"
+    ],
+    "name:trv_x_preferred":[
+        "Dominica"
     ],
     "name:tuk_x_preferred":[
         "Dominika"
@@ -1066,7 +1147,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636497500,
+    "wof:lastmodified":1690874874,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -40,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d9\u05e0\u05d8 \u05de\u05d9\u05e9\u05dc"
     ],
+    "name:ita_x_preferred":[
+        "Pointe Michel"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ef\u30f3\u30c8\u30fb\u30de\u30a4\u30b1\u30eb"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Pointe Michel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u041c\u0438\u0448\u0435\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Pointe Michel"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890429577,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1690874878,
     "wof:name":"Pointe Michel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

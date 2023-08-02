@@ -121,6 +121,9 @@
     "name:ita_x_preferred":[
         "Marigot"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30b4"
+    ],
     "name:kon_x_preferred":[
         "Marigot"
     ],
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":890434925,
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1690874879,
     "wof:name":"Marigot",
     "wof:parent_id":85670495,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062c\u0648\u0632\u064a\u0641"
     ],
+    "name:ast_x_preferred":[
+        "Saint Joseph"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09cb\u09b8\u09c7\u09ab \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
@@ -73,6 +76,9 @@
     "name:fra_x_preferred":[
         "Saint-Joseph"
     ],
+    "name:frr_x_preferred":[
+        "Saint Joseph"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acb\u0ab8\u0ac7\u0aab \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -100,6 +106,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc870\uc9c0\ud504 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\ud504\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eozefa pagasts"
     ],
@@ -112,11 +121,17 @@
     "name:msa_x_preferred":[
         "Saint Joseph Parish"
     ],
+    "name:nan_x_preferred":[
+        "S\u00e8ng Joseph K\u00e0u-khu"
+    ],
     "name:nld_x_preferred":[
         "Saint Joseph"
     ],
     "name:nob_x_preferred":[
         "Saint Joseph prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Joseph Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Joseph prestegjeld"
@@ -129,6 +144,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u0438\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444"
     ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0dc1\u0db4\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -147,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e42\u0e08\u0e40\u0e0b\u0e1f \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e42\u0e22\u0e40\u0e0b\u0e1f"
     ],
     "name:tur_x_preferred":[
         "Sain Joseph Parish"
@@ -285,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636497501,
+    "wof:lastmodified":1690874874,
     "wof:name":"Saint Joseph",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

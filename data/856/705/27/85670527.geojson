@@ -73,6 +73,9 @@
     "name:fra_x_preferred":[
         "Saint-Paul"
     ],
+    "name:frr_x_preferred":[
+        "Saint Paul"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a87\u0aa8\u0acd\u0a9f \u0aaa\u0acc\u0ab2 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -94,6 +97,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud3f4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud3f4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentpola pagasts"
     ],
@@ -106,11 +112,17 @@
     "name:msa_x_preferred":[
         "Saint Paul Parish"
     ],
+    "name:nan_x_preferred":[
+        "S\u00e8ng Paul K\u00e0u-khu"
+    ],
     "name:nld_x_preferred":[
         "Saint Paul"
     ],
     "name:nob_x_preferred":[
         "Saint Paul prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Paul Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Paul prestegjeld"
@@ -141,6 +153,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e1b\u0e2d\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e1e\u0e2d\u0e25"
     ],
     "name:tur_x_preferred":[
         "Saint Paul Parish"
@@ -282,7 +297,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636497501,
+    "wof:lastmodified":1690874874,
     "wof:name":"Saint Paul",
     "wof:parent_id":85632503,
     "wof:placetype":"region",
