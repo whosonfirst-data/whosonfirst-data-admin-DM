@@ -73,6 +73,9 @@
     "name:fra_x_preferred":[
         "Saint-Luke"
     ],
+    "name:frr_x_preferred":[
+        "Saint Luke"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acd\u0aaf\u0ac1\u0a95 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -100,6 +103,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ub8e8\ud06c \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ub8e8\ud06c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentl\u016bka pagasts"
     ],
@@ -112,11 +118,17 @@
     "name:msa_x_preferred":[
         "Saint Luke Parish"
     ],
+    "name:nan_x_preferred":[
+        "S\u00e8ng Luke K\u00e0u-khu"
+    ],
     "name:nld_x_preferred":[
         "Saint Luke"
     ],
     "name:nob_x_preferred":[
         "Saint Luke prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Luke Parish"
     ],
     "name:nor_x_preferred":[
         "Saint Luke prestegjeld"
@@ -148,6 +160,9 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e0b\u0e19\u0e25\u0e38\u0e04"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e25\u0e39\u0e49\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Saint Luke Parish"
     ],
@@ -163,8 +178,14 @@
     "name:vie_x_preferred":[
         "Gi\u00e1o x\u1ee9 Saint Luke"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5362\u514b\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u76e7\u514b\u5802\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8056\u76e7\u514b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DMA",
@@ -285,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636497502,
+    "wof:lastmodified":1690874876,
     "wof:name":"Saint Luke",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

@@ -44,6 +44,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e4\u05e8\u05d9\u05d9\u05e8"
     ],
+    "name:ita_x_preferred":[
+        "Soufri\u00e8re"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30d5\u30ea\u30a8\u30fc\u30eb"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:ron_x_preferred":[
         "Soufri\u00e8re"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0444\u0440\u0438\u0435\u0440"
     ],
     "name:spa_x_preferred":[
         "Soufri\u00e8re"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421196673,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1690874876,
     "wof:name":"Soufri\u00e8re",
     "wof:parent_id":85670519,
     "wof:placetype":"locality",

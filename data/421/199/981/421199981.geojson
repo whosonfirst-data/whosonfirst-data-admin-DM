@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "La Plaine"
     ],
+    "name:deu_x_preferred":[
+        "La Plaine"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u03a0\u03bb\u03b1\u03b9\u03bd"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "La-Plaine"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d7\u30ec\u30fc\u30cc"
     ],
     "name:nld_x_preferred":[
         "La Plaine"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421199981,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1690874877,
     "wof:name":"La Plaine",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

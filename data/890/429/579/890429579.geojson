@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Mahaut"
     ],
+    "name:deu_x_preferred":[
+        "Mahaut"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ce"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ron_x_preferred":[
         "Mahaut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043e"
     ],
     "name:swe_x_preferred":[
         "Mahaut"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890429579,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1690874878,
     "wof:name":"Mahaut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

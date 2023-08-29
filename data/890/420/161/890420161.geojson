@@ -37,6 +37,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d9\u05d4\u05d5"
     ],
+    "name:ita_x_preferred":[
+        "Colihaut"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ea\u30aa\u30fc"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Colihaut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u043e"
     ],
     "name:spa_x_preferred":[
         "Colihaut"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890420161,
-    "wof:lastmodified":1566581576,
+    "wof:lastmodified":1690874878,
     "wof:name":"Colihaut",
     "wof:parent_id":85670531,
     "wof:placetype":"locality",

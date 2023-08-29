@@ -44,6 +44,9 @@
     "name:ind_x_preferred":[
         "St. Joseph"
     ],
+    "name:ita_x_preferred":[
+        "Saint Joseph"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30bc\u30d5"
     ],
@@ -62,11 +65,17 @@
     "name:ron_x_preferred":[
         "Saint Joseph"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444"
+    ],
     "name:spa_x_preferred":[
         "Saint Joseph"
     ],
     "name:swe_x_preferred":[
         "Saint Joseph"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u7d04\u745f\u592b"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7d04\u745f\u592b"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421197581,
-    "wof:lastmodified":1636497502,
+    "wof:lastmodified":1690874877,
     "wof:name":"St. Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

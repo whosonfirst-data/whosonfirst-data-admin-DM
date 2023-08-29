@@ -49,6 +49,9 @@
     "name:ind_x_preferred":[
         "Salisbury"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30fc\u30eb\u30ba\u30d9\u30ea\u30fc"
+    ],
     "name:kor_x_preferred":[
         "\uc194\uc988\ubca0\ub9ac"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125963157,
-    "wof:lastmodified":1636497503,
+    "wof:lastmodified":1690874880,
     "wof:name":"Salisbury",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

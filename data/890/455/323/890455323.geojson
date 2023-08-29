@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Rosalie"
     ],
+    "name:deu_x_preferred":[
+        "Rosalie"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03b6\u03b1\u03bb\u03af"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05d6\u05dc\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Rosalie"
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30b6\u30ea\u30fc"
@@ -48,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Rosalie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0430\u043b\u0438"
     ],
     "name:swe_x_preferred":[
         "Rosalie"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890455323,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1690874877,
     "wof:name":"Rosalie",
     "wof:parent_id":85670499,
     "wof:placetype":"locality",

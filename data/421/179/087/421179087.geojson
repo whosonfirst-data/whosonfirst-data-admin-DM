@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Portsmouth"
+    ],
+    "name:aze_x_preferred":[
+        "Portsmut"
+    ],
     "name:ceb_x_preferred":[
         "Portsmouth"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8\u05e1\u05de\u05d5\u05ea'"
+    ],
+    "name:ind_x_preferred":[
+        "Portsmouth"
     ],
     "name:ita_x_preferred":[
         "Portsmouth"
@@ -85,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6a38\u8328\u8305\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u6734\u8328\u8305\u65af"
     ],
     "qs:gn_country":"DM",
     "qs:gn_fcode":"PPL",
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":421179087,
-    "wof:lastmodified":1566581575,
+    "wof:lastmodified":1690874877,
     "wof:name":"Portsmouth",
     "wof:parent_id":85670509,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Woodford Hill River"
     ],
+    "name:gle_x_preferred":[
+        "Abhainn Woodford Hill"
+    ],
     "name:spa_x_preferred":[
         "Woodford Hill River"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890434919,
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1690874879,
     "wof:name":"Woodford Hill",
     "wof:parent_id":85670495,
     "wof:placetype":"locality",

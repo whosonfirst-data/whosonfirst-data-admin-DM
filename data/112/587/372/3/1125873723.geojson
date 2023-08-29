@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Grand Bay"
     ],
+    "name:eng_x_variant":[
+        "Berekua"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0627\u0646\u062f \u0628\u06cc"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d0\u05e0\u05d3 \u05d1\u05d9\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Berekua"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30c9\u30fb\u30d9\u30a4"
@@ -61,8 +67,14 @@
     "name:por_x_preferred":[
         "Berakua"
     ],
+    "name:por_x_variant":[
+        "Berekua"
+    ],
     "name:ron_x_preferred":[
         "Berekua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0443\u0430"
     ],
     "name:spa_x_preferred":[
         "Grand Bay"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125873723,
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1690874880,
     "wof:name":"Berekua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

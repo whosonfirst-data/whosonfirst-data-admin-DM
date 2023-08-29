@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Calibishie"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30d3\u30b7"
+    ],
     "name:nld_x_preferred":[
         "Calibishie"
     ],
@@ -49,6 +52,9 @@
     "name:ron_x_preferred":[
         "Calibishie"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0431\u0438\u0448\u0438"
+    ],
     "name:spa_x_preferred":[
         "Calibishie"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5229\u7562\u65af\u8036"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u5229\u6bd4\u5e0c"
     ],
     "qs:name":"Calibishie",
     "qs:photos_9r":0,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890434929,
-    "wof:lastmodified":1566581577,
+    "wof:lastmodified":1690874879,
     "wof:name":"Calibishie",
     "wof:parent_id":85670495,
     "wof:placetype":"locality",
