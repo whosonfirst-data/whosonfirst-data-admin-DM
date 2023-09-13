@@ -1079,7 +1079,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"1-767",
     "statoids:ds":"WD",
     "statoids:fifa":"DMA",
@@ -1151,7 +1151,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492215,
+    "wof:lastmodified":1694639668,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
