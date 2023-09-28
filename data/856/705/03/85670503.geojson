@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004504,
-    "geom:area_square_m":53723258.920105,
+    "geom:area_square_m":53723588.590648,
     "geom:bbox":"-61.393599,15.253798,-61.30416,15.345524",
     "geom:latitude":15.303056,
     "geom:longitude":-61.347586,
@@ -285,14 +285,16 @@
         "gn:id":3575628,
         "gp:id":2345163,
         "hasc:id":"DM.GO",
+        "iso:code":"DM-04",
         "iso:id":"DM-04",
         "qs_pg:id":894871,
         "unlc:id":"DM-04",
         "wd:id":"Q617801",
         "wk:page":"Saint George Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"cafc7dc1a72e559d0979ae9c28de5fb0",
+    "wof:geomhash":"8caca9e798ff534bfe08998378377ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874874,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint George",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

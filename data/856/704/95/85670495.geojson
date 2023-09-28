@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016702,
-    "geom:area_square_m":198980471.05285,
+    "geom:area_square_m":198979994.994789,
     "geom:bbox":"-61.449211,15.444872,-61.268625,15.633084",
     "geom:latitude":15.535794,
     "geom:longitude":-61.354701,
@@ -281,14 +281,16 @@
         "gn:id":3575632,
         "gp:id":2345161,
         "hasc:id":"DM.AN",
+        "iso:code":"DM-02",
         "iso:id":"DM-02",
         "qs_pg:id":219540,
         "unlc:id":"DM-02",
         "wd:id":"Q732322",
         "wk:page":"Saint Andrew Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"328e001c7a628ea3ad68ce2120d5a1ef",
+    "wof:geomhash":"609d23f6d4d5fe49b4b0e36f60a334c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874876,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

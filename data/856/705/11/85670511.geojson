@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009687,
-    "geom:area_square_m":115463094.906373,
+    "geom:area_square_m":115462917.05004,
     "geom:bbox":"-61.455329,15.389345,-61.317363,15.494455",
     "geom:latitude":15.441453,
     "geom:longitude":-61.385752,
@@ -284,14 +284,16 @@
         "gn:id":3575625,
         "gp:id":2345165,
         "hasc:id":"DM.JH",
+        "iso:code":"DM-06",
         "iso:id":"DM-06",
         "qs_pg:id":890045,
         "unlc:id":"DM-06",
         "wd:id":"Q1476302",
         "wk:page":"Saint Joseph Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"c58821a8e2a31487b3bd7c22ab3fd51b",
+    "wof:geomhash":"2c5950c1d24d1a8787f91618c647a8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874874,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint Joseph",
     "wof:parent_id":85632503,
     "wof:placetype":"region",
