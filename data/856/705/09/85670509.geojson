@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005481,
-    "geom:area_square_m":65282760.900775,
+    "geom:area_square_m":65283255.038797,
     "geom:bbox":"-61.488922,15.503008,-61.407719,15.633857",
     "geom:latitude":15.566384,
     "geom:longitude":-61.449686,
@@ -293,14 +293,16 @@
         "gn:id":3575626,
         "gp:id":2345164,
         "hasc:id":"DM.JN",
+        "iso:code":"DM-05",
         "iso:id":"DM-05",
         "qs_pg:id":894872,
         "unlc:id":"DM-05",
         "wd:id":"Q1476285",
         "wk:page":"Saint John Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"124d1b252770218939facdabd05793df",
+    "wof:geomhash":"092f7a74ef167dfd0a0dac8c81298c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874875,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint John",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

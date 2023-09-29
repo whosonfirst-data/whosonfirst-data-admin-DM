@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005195,
-    "geom:area_square_m":61947696.320141,
+    "geom:area_square_m":61947119.424465,
     "geom:bbox":"-61.416007,15.312812,-61.32744,15.404951",
     "geom:latitude":15.362004,
     "geom:longitude":-61.368189,
@@ -275,14 +275,16 @@
         "gn:id":3575619,
         "gp:id":2345169,
         "hasc:id":"DM.PL",
+        "iso:code":"DM-10",
         "iso:id":"DM-10",
         "qs_pg:id":890048,
         "unlc:id":"DM-10",
         "wd:id":"Q339063",
         "wk:page":"Saint Paul Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"7737237672c0ced82293b3e1362d4d9e",
+    "wof:geomhash":"a42bbbf847179a7ee049f33da514c9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -297,7 +299,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874874,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint Paul",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006233,
-    "geom:area_square_m":74348969.340091,
+    "geom:area_square_m":74348802.809531,
     "geom:bbox":"-61.356611,15.211697,-61.253733,15.332656",
     "geom:latitude":15.276928,
     "geom:longitude":-61.301526,
@@ -278,14 +278,16 @@
         "gn:id":3575620,
         "gp:id":2345168,
         "hasc:id":"DM.PK",
+        "iso:code":"DM-09",
         "iso:id":"DM-09",
         "qs_pg:id":890047,
         "unlc:id":"DM-09",
         "wd:id":"Q1431108",
         "wk:page":"Saint Patrick Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"87eade3a16b0c69508fa333ff7230fd0",
+    "wof:geomhash":"3dd2867470f838c02d8e926fb1f61b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874875,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

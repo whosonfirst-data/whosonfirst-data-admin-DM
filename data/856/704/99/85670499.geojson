@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009879,
-    "geom:area_square_m":117771342.192585,
+    "geom:area_square_m":117771186.074187,
     "geom:bbox":"-61.334571,15.316662,-61.249257,15.509914",
     "geom:latitude":15.399591,
     "geom:longitude":-61.28866,
@@ -284,14 +284,16 @@
         "gn:id":3575630,
         "gp:id":2345162,
         "hasc:id":"DM.DA",
+        "iso:code":"DM-03",
         "iso:id":"DM-03",
         "qs_pg:id":894870,
         "unlc:id":"DM-03",
         "wd:id":"Q1431129",
         "wk:page":"Saint David Parish, Dominica"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
-    "wof:geomhash":"7a935b2c056d618d59173397662b6e06",
+    "wof:geomhash":"c01cd7c96d3b5bb3af431ba8837ac187",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690874876,
+    "wof:lastmodified":1695884852,
     "wof:name":"Saint David",
     "wof:parent_id":85632503,
     "wof:placetype":"region",

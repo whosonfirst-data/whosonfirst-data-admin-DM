@@ -1117,6 +1117,7 @@
         "hasc:id":"DM",
         "icao:code":"J7",
         "ioc:id":"DMA",
+        "iso:code":"DM",
         "itu:id":"DMA",
         "loc:id":"n50065763",
         "m49:code":"212",
@@ -1131,6 +1132,7 @@
         "wk:page":"Dominica",
         "wmo:id":"DO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DM",
     "wof:country_alpha3":"DMA",
     "wof:geom_alt":[
@@ -1151,7 +1153,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Dominica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
